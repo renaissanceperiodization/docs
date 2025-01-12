@@ -181,8 +181,8 @@ Locks are persistent, and pins are ephemeral: When you lock a value, it persists
 The fundamental purpose of locks is for you, the user, to prohibit any automatic programming or other "automagical" functions of the app from changing values that you set. You are always able to override your own locks.
 
 You can lock the following items:
-* day targets (either in your programmed schedule or in the schedule template)
-* meal targets (either in your programmed schedule or in the schedule template by creating a "manually specified meal")
+* day calorie/macro targets (either in your programmed schedule or in the schedule template)
+* meals, which locks its calorie/macro targets (either in your programmed schedule or in the schedule template by creating a "manually specified meal")
 * foods (in meals)
 
 Locking day or meal targets prevents them from being touched by the RP algorithm, including when you use the Auto-Configure feature.
