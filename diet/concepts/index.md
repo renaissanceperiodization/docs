@@ -101,7 +101,7 @@ By contrast, if you have one-off changes that apply to only the current or upcom
 
 You will notice that calorie counts are now all over the app. Our goal in exposing this information to you directly is to help you to build up your intuition around your caloric needs in achieving your body morphology (or maintenance) goals.
 
-As before, macros are always rounded to the nearest 5 grams. However, with calories, _target_ calories at the week and day levels are rounded to the nearest 100, but when a day is completed (all its meals are checked in), the "actual" calories are rounded to the nearest 5.
+As before, macros are always rounded to the nearest 5 grams. However, with calories, _target_ calories at the week and day levels are rounded to the nearest 100, but when a day is completed (all its meals are checked in), the "actual" calories are rounded to the nearest 5. For purposes of calculating your average calorie consumption trends, the app also rounds to the nearest 100 (so, for instance, if you're only trending away from your targets by an average of 20 calories, it will not tell you that you're off-course).
 
 ## Week-Level Calories
 
@@ -116,6 +116,19 @@ Your "Target Average Daily Calories" is the number of calories you're targeting 
 As you go through the week and check in meals, the app is keeping track of whether you're actually trending toward your target average daily calories or away from it. When you finish checking in meals for a day, the app will use the calories you reported consuming that day, along with the _target_ calories of other "unfinished" days in the week, to calculate the average daily calories you're _trending toward_. If you're trending away from your target average daily calories, the app will signal that to you on the Coaching tab, providing you with options on addressing that (eg, adjusting the target calories for other days in the week or changing your target average daily calories at the week level).
 
 When you're editing your schedule mid-week (that is, outside of Weekly Planning), you are provided with information about both your target average daily calories (which you can select directly) and also the average that you're trending toward. If these numbers are not equal, that's where you can make adjustments to the calorie targets of the remaining days in the week to get your "trending-toward average" to equal your selected target average daily calories.
+
+{: .note-title }
+> How the "Trending-Toward Average" is Calculated
+> 
+> TL;DR: The app averages all of your days' target calories, but will replace a day's targets in the calculation with the sum of the day's checked-in meals, once all meals for the day have been checked in.
+> 
+> At the start of a week, just after you complete Weekly Planning, you're trending toward your target average daily calories. This is because, to save your programmed schedule in Weekly Planning, it doesn't make sense to have day targets that don't equal your week targets. (See [Configured Average](#configured-average) below.)
+> 
+> When you check in all the meals for the day, when computing the average that you're trending toward, the RP algorithm uses the actual sum of the calories of the checked-in meals for that day instead of the day's explicitly configured targets. If you do a good job of following the app's recommendations, these numbers will be close to the same, but if you've veered off course (reflected in finishing a day with a significant [Day Balance](/diet/features/#day-balance)), this can cause you to trend away from your target average daily calories.
+>
+> Let's use a simple concrete example: You started the week with target average daily calories at 2000, and every day's targets is similarly at 2000. You've finished checking in your meals on Monday, and let's say that you ate 1995 calories. The app will average your actual calories from Monday (1995) with the target calories of the remaining days (all of which are 2000). That means that you're now trending toward a 1999 average, but that's within 100 calories of your selected 2000 target average daily calories, so the app will not report that you are trending away from your target.
+>
+> Now, let's say that you overate on Tuesday, eating 2700 calories instead of Tuesday's 2000 target. After checking in all of Tuesday's meals, the app will now average the actually consumed 1995 from Monday and 2700 from Tuesday with the remaining 2000 per day for the remaining 5 days of the week, and it will report that you are now trending toward 2100 calories (2099 rounded to the nearest 100). Since that's 100 or more away from your target average daily calories, the app will let you know that you're trending off course.
 
 ### Configured Average
 
