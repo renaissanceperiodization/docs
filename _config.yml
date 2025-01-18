@@ -1,11 +1,13 @@
-title: RP Strength Documentation
-description: Documentation for Renaissance Periodization Products
+title: RP Diet Coach App Beta
+description: Documentation for the RP Diet Coach App Beta
 remote_theme: just-the-docs/just-the-docs
 
 url: https://rp-docs.integratedfitnesscoaching.com
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  RP Diet Coach App Home: https://rpstrength.com/pages/diet-coach-app
+
+aux_links_new_tab: true
 
 logo: "https://rpstrength.com/cdn/shop/files/logomark_1.svg?crop=center&height=32&v=1708462121&width=32"
 
