@@ -11,12 +11,6 @@ aux_links_new_tab: true
 
 logo: "https://rpstrength.com/cdn/shop/files/logomark_1.svg?crop=center&height=32&v=1708462121&width=32"
 
-
-collections:
-  docs:
-    permalink: "/:path/"
-    output: true
-
 back_to_top: true
 back_to_top_text: "Back to top"
 
@@ -27,15 +21,16 @@ callouts:
     title: Note
     color: purple
 
-## just_the_docs:
-##  collections:
-##    docs:
-##      name: RP Documentation TEST
-
 defaults:
   -
     scope:
-      path: ""
+      path: "docs/**/index.md"
     values:
       layout: "default"
-
+      permalink: "/:path/"
+  -
+    scope:
+      path: "docs"
+    values:
+      layout: "default"
+      permalink: "/:path/:basename/"
