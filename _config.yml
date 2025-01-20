@@ -2,14 +2,14 @@ title: RP Strength Documentation
 description: Documentation for RP Strength Apps
 remote_theme: just-the-docs/just-the-docs
 
-url: https://rp-docs.integratedfitnesscoaching.com
+url: https://docs.rpstrength.com
 
 aux_links:
   RP Diet Coach App Home: https://rpstrength.com/pages/diet-coach-app
 
 aux_links_new_tab: true
 
-logo: "https://rpstrength.com/cdn/shop/files/logomark_1.svg?crop=center&height=32&v=1708462121&width=32"
+logo: "/assets/images/logo-docs@2x.png"
 
 back_to_top: true
 back_to_top_text: "Back to top"
