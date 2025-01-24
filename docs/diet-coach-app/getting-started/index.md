@@ -15,7 +15,63 @@ nav_order:      100
 
 # What is your refund policy for the diet app?
 
+Subscriptions purchased in iTunes or Google Play are subject to the policies those stores set. As web developers, we do not have access to billing and subscription information for the app stores. Users who subscribe via their app store (generally, directly through the app) will need to reach out to their app store to request a refund. 
+
+For subscriptions purchased via Stripe, there is a 30 day money back guarantee. We can offer this as we have access to the subscriptions in this server and cancel and process refunds. To qualify for a refund, users must reach out to either [info@rpstrength.com](mailto:info@rpstrength.com) or [app.support@rpstrength.com](mailto:app.support@rpstrength.com) requesting a refund within the first 30 days of their subscription. Refunds requested outside of this timeframe are not guaranteed. 
+
 # Is the RP Diet Coach app the right product for me?
+
+The RP Diet coach app is an excellent app for most folks. However, there are usability and health exceptions. 
+
+The app does require some basic knowledge of counting macros. If you do not know or wish to know how macros work, we recommend a simpler option.
+
+<iframe src="//www.youtube-nocookie.com/embed/fgaxFDTKHp0" width="560" height="315" frameborder="0" allowfullscreen=""></iframe>
+
+RP Strength is not a healthcare company, but we care about your health. The App has been developed based on certain health parameters. However, each individual is different, and you should consult with your personal healthcare provider before beginning any significant weight modification program. DO NOT BEGIN USING THE RP APP IF YOU HAVE NOT RECEIVED MEDICAL CLEARANCE FROM YOUR PERSONAL HEALTHCARE PROVIDER.
+
+Do NOT use the app if
+
+* Your age is less than 18 years or over 65 years
+
+* Your height is under 54 inches tall or over 84 inches tall
+
+* Your weight is over 350 pounds
+
+* Your Body Mass Index (BMI) is less than 17
+
+* You are a transgender individual currently undergoing hormone therapy
+
+* You are currently breastfeeding
+
+* You have been diagnosed with heart disease
+
+* You have been diagnosed with thyroid cancer
+
+* You have polycystic ovary syndrome
+
+* You have hyperthyroidism or hypothyroidism
+
+* You have undergone weight loss surgery in the past 5 years
+
+* You have gallbladder disease
+
+* You are pregnant
+
+* You have been diagnosed with an autoimmune disease
+
+* You have a history of an eating disorder
+
+* You have been diagnosed with Type I or Type II diabetes
+
+Do not follow a fat-loss diet if
+
+* You are trying to get pregnant
+
+* You are undergoing fertility treatments
+
+Other health conditions may also require consultation with a Registered Dietitian (RD).
+
+See our [full medical waiver](https://rp-website-production-files.s3.us-east-2.amazonaws.com/App_Med_Waiver__1.pdf){:target="&lowbar;blank"}.
 
 # How the RP Diet Coach app different from other apps?
 
@@ -23,7 +79,23 @@ The RP Diet App builds you a plan exactly and only for your specific needs, sche
 
 The app tells you what macros to hit meal by meal, and give you exact weights of every selected food you have to eat to meet those macros. If you want to maximize your chances of success, eat only the foods listed in the plan, or very similar whole foods. If you’re going to eat foods not listed, please count them to within 5g per macro. So if a your plan says to consume a meal of 20g of protein, 35g of carbs and 10g of fat, and you consume foods with a total of 17g protein, 37g carbs, and 11g fat, you’re in the clear!
 
+<iframe src="//www.youtube-nocookie.com/embed/-fBfpPBfnP4" width="560" height="315" frameborder="0" allowfullscreen=""></iframe>
+
 # Does the RP Diet Coach app support special diets?
+
+Yes! Whether it is your preference, of a food allergy, this plan offers extensive flexibility. YOU get to choose all food sources (within their allotted portions) from our list of recommended foods, so you can be sure to steer clear of anything you need to.
+
+We have the following food filters: You can filter the list of foods shown in the app by enabling one or more of the following filters to match your dietary preferences. Only foods that match all of the selected filters will be shown.
+
+| Filter               | Description                                                                                                                                                           |
+|----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Dairy Free**        | Foods that don't contain and aren't derived from dairy.                                                                                                               |
+| **Gluten Free**       | Foods that don't contain gluten. Low gluten foods aren't included.                                                                                                    |
+| **Grain Free**        | Foods that don't contain grain. Pseudo-grains are still shown as some people can eat them while eating generally grain free, and the few that exist are easily ignored.  |
+| **Low FODMAP**        | Foods that contain low levels of FODMAPs (Fermentable Oligo-, Di-, Mono-saccharides And Polyols). If only a small and carefully measured amount of a food would be allowed then we err on the side of caution and leave it out.  |
+| **Ovo-Lacto Vegetarian** | Vegetarian foods including milk and eggs.                                                                                                                             |
+| **Paleo**             | Foods that are included on the Paleo diet. Opinions on what is "paleo" or not vary, we've done our best!                                                               |
+| **Vegan**             | Foods that are included in a vegan diet. Since some people apply a standard of animal harm rather than excluding all animal derived products, we err on the side of including these easily ignored foods to make things easier for those vegans who do want to eat these foods. |
 
 ## I have a food allergy(ies). Can RP still work for me? Of course!
 
