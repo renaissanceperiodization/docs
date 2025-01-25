@@ -1,6 +1,7 @@
 ---
 title:          Diet Coach App 1.22 Beta
 layout:         home
+nav_order:      300
 ---
 
 Thank you for agreeing to help RP with beta testing the new features we've been working on for the Diet Coach App!
