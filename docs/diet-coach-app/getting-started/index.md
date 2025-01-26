@@ -115,7 +115,7 @@ The RP Diet Coach app allows users to sign in via multiple methods.
 
 We recommend that once you choose your method of log-in, that you sign in with that method every time. Otherwise, there is a risk of creating multiple accounts.
 
-<img src="/hc/article_attachments/1500019476621/IMG_DD9F55157590-1_2.jpeg" width="249" height="555">
+<img src="https://help.rpstrength.com/hc/article_attachments/1500019476621/IMG_DD9F55157590-1_2.jpeg" width="249" height="555">
 
 _Note: [Sign in with Apple](https://support.apple.com/en-us/102379){:target="&lowbar;blank"} is only available to iPhone users._
 
