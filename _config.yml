@@ -14,12 +14,12 @@ logo: "/assets/images/logo-docs-big@2x.png"
 back_to_top: true
 back_to_top_text: "Back to top"
 
-color_scheme: dark
+color_scheme: rpdark
 
 callouts:
   note:
     title: Note
-    color: purple
+    color: blue-energetic
 
 defaults:
   -
