@@ -25,7 +25,7 @@ The RP Diet coach app is an excellent app for most folks. However, there are usa
 
 The app does require some basic knowledge of counting macros. If you do not know or wish to know how macros work, we recommend a simpler option.
 
-<iframe src="//www.youtube-nocookie.com/embed/fgaxFDTKHp0" width="560" height="315" frameborder="0" allowfullscreen=""></iframe>
+<iframe src="//www.youtube-nocookie.com/embed/fgaxFDTKHp0" class="youtube-video" frameborder="0" allowfullscreen=""></iframe>
 
 RP Strength is not a healthcare company, but we care about your health. The App has been developed based on certain health parameters. However, each individual is different, and you should consult with your personal healthcare provider before beginning any significant weight modification program. DO NOT BEGIN USING THE RP APP IF YOU HAVE NOT RECEIVED MEDICAL CLEARANCE FROM YOUR PERSONAL HEALTHCARE PROVIDER.
 
@@ -79,7 +79,7 @@ The RP Diet App builds you a plan exactly and only for your specific needs, sche
 
 The app tells you what macros to hit meal by meal, and give you exact weights of every selected food you have to eat to meet those macros. If you want to maximize your chances of success, eat only the foods listed in the plan, or very similar whole foods. If you’re going to eat foods not listed, please count them to within 5g per macro. So if a your plan says to consume a meal of 20g of protein, 35g of carbs and 10g of fat, and you consume foods with a total of 17g protein, 37g carbs, and 11g fat, you’re in the clear!
 
-<iframe src="//www.youtube-nocookie.com/embed/-fBfpPBfnP4" width="560" height="315" frameborder="0" allowfullscreen=""></iframe>
+<iframe src="//www.youtube-nocookie.com/embed/-fBfpPBfnP4"  class="youtube-video" frameborder="0" allowfullscreen=""></iframe>
 
 # Does the RP Diet Coach app support special diets?
 

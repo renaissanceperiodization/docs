@@ -1,1 +1,21 @@
 
+@font-face {
+    font-family: 'Figtree';
+    src: url('/assets/fonts/Figtree-Regular.woff2') format('woff2'),
+         url('/assets/fonts/Figtree-Regular.woff') format('woff');
+
+}
+body {
+    font-family: 'Figtree', sans-serif; /* Fallback font for safety */
+}
+h1 {font-weight: 600;}
+#main-header > nav > ul > li > a {color:$red-energetic;}
+.site-title:hover { background-image: none; }
+
+.site-button:hover { background-image: none; }
+.icon, .search-label .search-icon {color:white;}    
+.nav-list .nav-list-item .nav-list-link {color:white; font-weight: 500;  }
+.nav-list .nav-list-item .nav-list-expander {color:white;}
+.nav-list .nav-list-item .nav-list-expander:hover {color:white;}
+.youtube-video { aspect-ratio: 16/9; width: 100%;}
+.nav-list .nav-list-item .nav-list-link:hover, .nav-list .nav-list-item .nav-list-link.active { background-image: linear-gradient(-90deg, #262423 0%, rgba(32, 31, 35, 0.8) 80%, rgba(32, 31, 35, 0) 100%); }
