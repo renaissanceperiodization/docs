@@ -1,7 +1,7 @@
 ---
-title:          Busy Time
-nav_order:      700
-parent:         Features
+title:          Sleep
+nav_order:      600
+parent:         Concepts
 ---
 
 <details open markdown="block">
