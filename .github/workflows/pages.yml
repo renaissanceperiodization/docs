@@ -87,8 +87,12 @@ jobs:
         run: find ./github-pages
       - name: Verify Downloaded Files
         run: ls -lah ./github-pages
-      - name: Debug Deployment Inputs
-        run: echo "Artifact Name: ${{ steps.deployment.outputs.artifact_name }}"
+      - name: Debug Deployment Environment
+        run: env | sort
+      - name: List Artifacts with GH CLI
+        run: gh api repos/${{ github.repository }}/actions/runs/${{ github.run_id }}/artifacts
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v3
