@@ -83,6 +83,8 @@ jobs:
         with:
           name: _site
           path: _site
+      - name: Extract artifact
+        run: tar -xvf _site/artifact.tar -C _site
       - name: Debug artifact structure
         run: find ./_site
       - name: Verify Downloaded Files
