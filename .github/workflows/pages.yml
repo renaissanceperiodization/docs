@@ -83,9 +83,9 @@ jobs:
           name: github-pages
           path: _site
       - name: Debug artifact structure
-        run: find ./github-pages
+        run: find ./_site
       - name: Verify Downloaded Files
-        run: ls -lah ./github-pages
+        run: ls -lah ./_site
       - name: Debug Deployment Environment
         run: env | sort
       - name: List Artifacts with GH CLI
@@ -96,4 +96,4 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v3
         with:
-          artifact_name: github-pages
+          artifact_name: _site
