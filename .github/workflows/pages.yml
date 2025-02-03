@@ -59,7 +59,7 @@ jobs:
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-artifact@v4
         with:
-          artifact_name: github-pages
+          name: github-pages
           path: _site
       - name: List Artifacts After Upload
         run: ls -lah /home/runner/work/_temp/
@@ -74,6 +74,10 @@ jobs:
     steps:
       - name: List Artifacts
         run: ls -lah /home/runner/work/_temp/
+      - name: List Artifacts in Workflow
+        run: gh run artifacts --repo $GITHUB_REPOSITORY
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v3
