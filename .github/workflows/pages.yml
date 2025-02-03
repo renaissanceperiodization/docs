@@ -53,10 +53,6 @@ jobs:
         with:
           name: github-pages
           path: _site
-      - name: List uploaded artifacts ## DELETE WHEN WORKS
-        run: gh run artifacts --repo $GITHUB_REPOSITORY
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
   # Deployment job
   deploy:
