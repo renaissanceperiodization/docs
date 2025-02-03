@@ -30,7 +30,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v3
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
@@ -39,30 +39,18 @@ jobs:
           cache-version: 0 # Increment this number if you need to re-download cached gems
       - name: Setup Pages
         id: pages
-        uses: actions/configure-pages@v4
+        uses: actions/configure-pages@v3
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
-      - name: Debug Build Output
-        run: ls -lah _site
-      - name: Check if _site exists
-        run: |
-          if [ -d "_site" ]; then
-            echo "_site directory exists. Proceeding with upload."
-          else
-            echo "ERROR: _site directory is missing!" >&2
-            exit 1
-          fi
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
-          path: _site
           name: _site
-      - name: List Artifacts After Upload
-        run: ls -lah /home/runner/work/_temp/
+          path: _site
 
   # Deployment job
   deploy:
@@ -72,31 +60,11 @@ jobs:
     runs-on: ubuntu-latest
     needs: build
     steps:
-      - name: List Artifacts
-        run: ls -lah /home/runner/work/_temp/
-      - name: List Artifacts with GH CLI
-        run: gh api repos/${{ github.repository }}/actions/runs/${{ github.run_id }}/artifacts
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Download artifact
         uses: actions/download-artifact@v4
         with:
           name: _site
           path: _site
-      - name: Extract artifact
-        run: tar -xvf _site/artifact.tar -C _site
-      - name: Debug artifact structure
-        run: find ./_site
-      - name: Verify Downloaded Files
-        run: ls -lah ./_site
-      - name: Debug Deployment Environment
-        run: env | sort
-      - name: List Artifacts with GH CLI
-        run: gh api repos/${{ github.repository }}/actions/runs/${{ github.run_id }}/artifacts
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v3
-        with:
-          artifact_name: _site
+        uses: actions/deploy-pages@v2
