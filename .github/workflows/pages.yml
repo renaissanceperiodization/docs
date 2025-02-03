@@ -60,6 +60,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: _site
+          name: _site
       - name: List Artifacts After Upload
         run: ls -lah /home/runner/work/_temp/
 
@@ -80,7 +81,7 @@ jobs:
       - name: Download artifact
         uses: actions/download-artifact@v4
         with:
-          name: github-pages
+          name: _site
           path: _site
       - name: Debug artifact structure
         run: find ./_site
