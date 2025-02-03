@@ -27,11 +27,16 @@ collections:
   diet:
     output: true
     permalink: "/docs/diet-coach-app/:path/"
+  hypertrophy:
+    output: true
+    permalink: "/docs/hypertrophy-app/:path/"
 
 just_the_docs:
   collections:
     diet:
       name: Diet Coach App
+    hypertrophy:
+      name: Hypertrophy App
 
 defaults:
   -
