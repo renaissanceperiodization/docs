@@ -2,10 +2,12 @@ title: RP Strength Documentation
 description: Documentation for RP Strength Apps
 remote_theme: just-the-docs/just-the-docs
 
-url: https://docs.rpstrength.com
+url: https://docs.rpstrength.com/docs/
 
 aux_links:
-  RP Diet Coach App Home: https://rpstrength.com/pages/diet-coach-app
+  Diet Coach App Home: https://rpstrength.com/pages/diet-coach-app
+  Hypertrophy App Home: https://rpstrength.com/pages/hypertrophy-app
+
 
 aux_links_new_tab: true
 
@@ -21,6 +23,16 @@ callouts:
     title: Note
     color: blue-energetic
 
+collections:
+  diet:
+    output: true
+    permalink: "/docs/diet-coach-app/:path/"
+
+just_the_docs:
+  collections:
+    diet:
+      name: Diet Coach App
+
 defaults:
   -
     scope:
@@ -34,3 +46,8 @@ defaults:
     values:
       layout: "default"
       permalink: "/:path/:basename/"
+  -
+    scope:
+      path: "_diet"
+    values:
+      layout: "default"
