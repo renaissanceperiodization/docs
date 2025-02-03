@@ -52,7 +52,7 @@ Particularly because there is so much in flux with the app, we request that you 
 
 # How to Provide Feedback
 
-To deliver feedback, please email diet-app-beta@rpstrength.com. Provide the device model and OS version, your app build number, screenshots or a screen recording, and as much information about what you were doing, what you expected to happen, what actually happened, and whether you can reliably reproduce the problem. Timely feedback (ie, as soon as the problem occurs) is most helpful, as that allows us to investigate issues that could be connected with your specific account data before you take further action that might wipe out evidence that provides valuable context.
+To deliver feedback and to get help, please email diet-app-beta@rpstrength.com. Provide the device model and OS version, your app build number, screenshots or a screen recording, and as much information about what you were doing, what you expected to happen, what actually happened, and whether you can reliably reproduce the problem. Timely feedback (ie, as soon as the problem occurs) is most helpful, as that allows us to investigate issues that could be connected with your specific account data before you take further action that might wipe out evidence that provides valuable context.
 
 To get the important version/build numbers, in the app, navigate to the "Me" tab, then "Help", then "About". Either include those in your email or take a screenshot of that page.
 
