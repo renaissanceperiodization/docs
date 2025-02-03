@@ -65,8 +65,6 @@ jobs:
         with:
           name: _site
           path: _site
-          pattern: "**"
-          merge-multiple: true
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
