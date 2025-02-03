@@ -16,17 +16,13 @@ parent:         Troubleshooting
 # I have a referral code, but I'm not sure where to enter it.
 
 1. Navigate to [https://rp.app/subscribe](https://rp.app/subscribe){:target="&lowbar;blank"}.
-2. Either create an account, or, if you already have an account, click or tap on "Already have an account?".
-
-  _Note: If you already have an account, make sure not to create any duplicate accounts. If you choose to Sign in with Apple, you will need to make sure that you use that method every time you sign in, as this will create a new account with a secure email. Duplicate accounts may result in duplicate charges._
-
-  <img src="https://help.rpstrength.com/hc/article_attachments/4402049806359/Screen_Shot_2021-06-03_at_10.42.28_AM.png" width="300" height="401" />
-3. Once signed in, you should see the following screen. Type in your referral code in the gray referral code box and click or tap on "Save Referral Code".
-
-  <img src="https://help.rpstrength.com/hc/article_attachments/4402043247639/Screen_Shot_2021-06-03_at_10.33.47_AM.png" width="223" height="252" />
-4. At this point, you will be able to select the appropriate subscription. Please make sure to select the correct discounted subscription.
-
-  <img src="https://help.rpstrength.com/hc/article_attachments/4402049891863/Screen_Shot_2021-06-03_at_10.34.04_AM.png" width="225" height="276" />
+2. Either create an account, or, if you already have an account, click or tap on "Already have an account?".<br /><br />
+_Note: If you already have an account, make sure not to create any duplicate accounts. If you choose to Sign in with Apple, you will need to make sure that you use that method every time you sign in, as this will create a new account with a secure email. Duplicate accounts may result in duplicate charges._<br /><br />
+<img src="https://help.rpstrength.com/hc/article_attachments/4402049806359/Screen_Shot_2021-06-03_at_10.42.28_AM.png" width="300" height="401" />
+3. Once signed in, you should see the following screen. Type in your referral code in the gray referral code box and click or tap on "Save Referral Code".<br />
+<img src="https://help.rpstrength.com/hc/article_attachments/4402043247639/Screen_Shot_2021-06-03_at_10.33.47_AM.png" width="223" height="252" />
+4. At this point, you will be able to select the appropriate subscription. Please make sure to select the correct discounted subscription.<br />
+<img src="https://help.rpstrength.com/hc/article_attachments/4402049891863/Screen_Shot_2021-06-03_at_10.34.04_AM.png" width="225" height="276" />
 
 If you accidentally subscribed to a full price subscription, or if you subscribed without entering a referral code, and would like to take advantage of the offer, check out the next FAQ entry!
 
