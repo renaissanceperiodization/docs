@@ -3,3 +3,5 @@
 GET RID OF THE NEXT LINE TO ENABLE INDEXING!
 {% endcomment %}
 <meta name="robots" content="noindex">
+
+{% if page.redirect_to %}<link rel="canonical" href="{{ page.redirect_to }}"/>{% endif %}

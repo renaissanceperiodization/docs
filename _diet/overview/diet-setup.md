@@ -1,7 +1,7 @@
 ---
-title:          Starting a Diet
-nav_order:      100
-parent:         Getting Started
+title:          Setting Up a Diet
+nav_order:      200
+parent:         Overview
 ---
 
 <details open markdown="block">

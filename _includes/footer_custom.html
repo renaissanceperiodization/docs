@@ -1,0 +1,5 @@
+{% if page.redirect_to %}
+<h2>Redirecting...</h2>
+<a href="{{ page.redirect_to }}">Click here if you are not redirected.<a>
+<script>window.location.replace("{{ page.redirect_to }}");</script>
+{% endif %}

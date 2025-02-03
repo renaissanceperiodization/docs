@@ -1,7 +1,7 @@
 ---
 title:          Getting Started
-layout:         home
 nav_order:      100
+parent:         Overview
 ---
 
 <details open markdown="block">
