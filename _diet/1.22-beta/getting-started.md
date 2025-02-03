@@ -12,6 +12,8 @@ Keep in mind that, while the app can be run on tablets and on certain Mac comput
 
 # Enrolling in the Beta
 
+Note that if you cannot join the beta, the testing pool may be full. Don't despair--we will launch publicly as soon as possible!
+
 ## iOS
 
 Join the "Open External Beta" TestFlight group [here](https://testflight.apple.com/join/k6rTNPTe).
