@@ -78,8 +78,16 @@ jobs:
         run: gh api repos/${{ github.repository }}/actions/runs/${{ github.run_id }}/artifacts
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Download artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: github-pages
+          path: ./github-pages
+      - name: Verify Downloaded Files
+        run: ls -lah ./github-pages
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v3
         with:
           artifact_name: github-pages
+          path: ./github-pages
