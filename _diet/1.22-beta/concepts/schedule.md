@@ -77,8 +77,8 @@ No. As with day targets, you must specify all macros to save a manual meal into 
 If you start your diet on any day other than Monday, your first Weekly Planning will include the remaining days of the week through Sunday, plus the full next week of Monday through Sunday. For example, if you start your diet on a Thursday, your first Weekly Planning will include Thursday to Sunday of the current week, as well as the full Monday through Sunday of the following week, for a total of 11 days, which you would scroll through in the day carousel at the top of various views, including your main schedule view as you’re running your diet. Note that your schedule template will be used as the blueprint for both Thursdays, both Fridays, both Saturdays, and both Sundays of this first 11-day cycle.
 
 ## How do I edit my schedule template in the middle of my diet?
-    
-Find the "Edit Schedule Template" option on the "Me" tab. This is the current location of this functionality, so as to not be confused with making schedule edits to the current week from the Schedule tab.
+
+Find the "Schedule Template" option on the "Me" tab. This is the current location of this functionality, so as to not be confused with making schedule edits to the current week from the Schedule tab.
 
 ## What happens if I edit my schedule template in the middle of my diet?
     
