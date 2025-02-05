@@ -10,19 +10,11 @@ You should only sign up to participate in the beta if you're already familiar wi
 
 Keep in mind that, while the app can be run on tablets and on certain Mac computers, we discourage you from running it on those platforms, as we have not verified compatibility or stability, and so we cannot support you if you run into bugs.
 
-# Enrolling in the Beta
+# Active Subscription is Required
 
-Note that if you cannot join the beta, the testing pool may be full. Don't despair--we will launch publicly as soon as possible!
+The beta version of the RP Diet Coach app is available to users under the same access terms as the production app, which means an active subscription is required. If you're already subscribed to the RP Diet Coach app, you'll be able to use the beta just like you would the regular version--your existing login and subscription will carry over automatically.
 
-## iOS
-
-Join the "Open External Beta" TestFlight group [here](https://testflight.apple.com/join/k6rTNPTe).
-
-## Android
-
-Join the beta testing track:
-* Click [here](https://play.google.com/store/apps/details?id=com.rp.rpdiet) if you're on your Android phone.
-* Click [here](https://play.google.com/apps/testing/com.rp.rpdiet){:target="&lowbar;blank"} if you're on your laptop or desktop browser (but make sure to install the app on a phone).
+If you're not currently subscribed, you'll need to sign up for a subscription to access the beta. The beta isn't a free trial, but rather an early-access version of the app with new features and improvements in development. We greatly appreciate our beta testers' feedback, and your participation helps us make the app even better!
 
 # No Going Back
 
@@ -62,3 +54,40 @@ Check out these resources for taking screenshots and recordings:
   * [screen recordings](https://support.apple.com/guide/iphone/take-a-screen-recording-iph52f6e1987/ios){:target="&lowbar;blank"}
     * If you want to narrate your screen recordings, tap and hold the screen recording control form your Control Center, then tap on the microphone icon so that it turns red and is captioned "Microphone On". Then tap the "Start Recording" button.
 * [Android](https://support.google.com/android/answer/9075928?hl=en){:target="&lowbar;blank"}
+
+# Enrolling in the Beta
+
+Note that if you cannot join the beta, the testing pool may be full. Don't despair--we will launch publicly as soon as possible!
+
+## iOS
+
+1. If you don't already have it, install the TestFlight app:<br />
+Option 1: [Direct Link](https://apps.apple.com/app/testflight/id899247664){:target="&lowbar;blank"} (Make sure to tap on this link from your iPhone!)<br />
+Option 2: Manual Search and Installation
+    1. Open the App Store on your iPhone.
+    2. In the search bar, enter "TestFlight".
+    3. Locate the "TestFlight" app in the search results (make sure that "Apple" is the developer of the app) and tap the "Get" or download icon to install it.
+2. Join the beta testing program:
+    1. After installing TestFlight, [join the "Open External Beta" TestFlight group](https://testflight.apple.com/join/k6rTNPTe){:target="&lowbar;blank"}. (Make sure to tap on this link from your phone!) This link will automatically open the TestFlight app and display the RP Diet Coach app beta invitation.
+    2. Tap "Accept" to join the beta testing program.
+3. Install the beta version of the app: Within TestFlight, after accepting the invitation, you will see the RP Diet Coach App listed. Tap the "Install" button next to the app to download and install the beta version. (If you already have the RP Diet Coach App installed, this beta version will replace the existing app on your device.)
+
+## Android
+
+1. Install the RP Diet Coach app:<br />
+Option 1: [Direct Link](https://play.google.com/store/apps/details?id=com.rp.rpdiet){:target="&lowbar;blank"} (Make sure to tap on this link from your Android phone!)<br />
+Option 2: Manual Search and Installation
+    1. Open the Google Play Store on your Android device.
+    2. In the search bar, type "RP Diet Coach & Macro Planner" and tap the search icon.
+    3. Locate the app in the search results and tap "Install" to download and install it on your device.
+2. Join the beta testing program:<br />
+Option 1: [Direct Link](https://play.google.com/store/apps/details?id=com.rp.rpdiet){:target="&lowbar;blank"} (Make sure to tap on this link from your Android phone!)<br />
+Option 2: Manual Enrollment
+    1. Open the Google Play Store and navigate to the RP Diet Coach App’s page.
+    2. Scroll down to find the "Join the beta" section.
+    3. Tap "Join" to enroll in the beta testing program.
+    4. A confirmation dialog will appear; tap "Join" again to confirm. (It may take a few minutes for your account to be added to the beta program.)
+3. Update to the beta version:
+    1. Once you’ve joined the beta program, return to the RP Diet Coach App’s page in the Google Play Store.
+    2. If a beta version is available, you’ll see an option to update the app.
+    3. Tap "Update" to install the beta version over your existing app.
