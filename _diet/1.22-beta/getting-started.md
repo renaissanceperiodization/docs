@@ -44,6 +44,14 @@ If you are in in the middle of a diet, most parts of your diet data will carry o
     * "over macros", your meal will be checked in at 150% of the target macros.
 * If, before upgrading, you didn't check in a meal that was scheduled for a time before you upgraded, your meal will be checked in at target macros in the beta version.
 
+# Debugging Information
+
+There are some elements in the app that currently exist primarily to provide you with context and debugging information, specifically to help you to better understand what might be going on "under the hood", so that you can more effectively determine if something is really amiss and to provide better feedback.
+
+Here are a few examples of such debugging information:
+* On the "Schedule" tab, each day has some text under the day target calories and macros that shows the wee's "Trending towards" and "Target" calories. These refer to the [average daily calories you're trending toward for the week](/docs/diet-coach-app/1.22-beta/concepts/calories/#trending-toward-average) and the [average daily calories you've selected as your target for the the week](/docs/diet-coach-app/1.22-beta/concepts/calories/#target-average-daily-calories), respectively.
+* On the "Schedule" tab, under the "Step Count Target" card, there's a card that indicates a number of meals and a time range. The number of meals represents your preference for how many meals the app should program for you for that day, and the time range is when you want the app to program meals for you each day ([replacing sleep periods](/docs/diet-coach-app/1.22-beta/concepts/sleep/)).
+
 # Feature Incomplete
 
 This beta represents a major change to the RP Diet Coach App, and so we have had to minimize its scope to only those changes and features that are absolutely required to run successful diets.
