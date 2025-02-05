@@ -71,4 +71,24 @@ However, it can still be valuable on its own: For instance, if you know that you
 Note that, like [Adjust macros of unlocked meals](#adjust-macros-of-unlocked-meals), this option will not reschedule meals before the current time (ie, in the past).
 
 
+# Additional Notes on Behavior and Settings
 
+## Assumptions
+
+When Auto-configure reprograms the remainder of today, any meals that have not been checked in yet but are past their scheduled time will be assumed to have been eaten at the target macros. Therefore, it's a great idea to make sure that all of today's meals that you've already consumed are checked in accurately.
+
+## Meal Preservation and Scheduling Settings
+
+Under the "Me" tab, tap into the "Settings" option, and under "Schedule Edits", you will see two more settings that constrain the Auto-configure algorithm, each of which provides a time offset in half-hour increments before and after the current time:
+
+### Preserve meals older than
+
+This tells Auto-configure which unlocked, un-checked-in meals are eligible for being reprogrammed.
+
+For example, if it's 12:00, and this setting is "-2 hrs", then any meals before 10:00 will not be reprogrammed (deleted or modified) by Auto-configure, regardless of their lock or checked-in status. But if you have a meal at 11:00 that's unlocked and not checked in, Auto-configure will attempt to move it to later in the day, on the assumption that you didn't eat that meal.
+
+### Soonest to schedule new meals
+
+This tells Auto-configure how soon it can start programming new meals.
+
+For example, if it's 10:00, and this setting is "+1 hr", then Auto-configure will only reprogram meals at 11:00 or later.
