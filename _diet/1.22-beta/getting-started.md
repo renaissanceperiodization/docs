@@ -4,6 +4,15 @@ nav_order:      100
 parent:         Diet Coach App 1.22 Beta
 ---
 
+<details open markdown="block">
+  <summary>
+    &nbsp;Table of Contents
+  </summary>
+{: .no_toc }
+- TOC
+{:toc}
+</details>
+
 # Who the Beta is For
 
 You should only sign up to participate in the beta if you're already familiar with the current publicly available RP Diet Coach App and are willing to endure some bugs here and there, even though the beta version is already in a pretty stable, usable state.
