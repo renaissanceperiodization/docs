@@ -42,7 +42,7 @@ If you are in in the middle of a diet, most parts of your diet data will carry o
     * "at macros" or did not check it in at all (and it's before the current time), your meal will be checked in at target macros in the beta version.
     * "below macros", your meal will be checked in at 50% of the target macros.
     * "over macros", your meal will be checked in at 150% of the target macros.
-* If, before upgrading, you didn't check in a meal that was scheduled for a time before you upgraded, your meal will be checked in at target macros in the beta version.
+* Any meals that were not checked in before you upgraded will need to be checked in after. That includes if you have turned off checking in meals in the previous version of the app, since checking in meals is mandatory in this new version.
 
 # Debugging Information
 
