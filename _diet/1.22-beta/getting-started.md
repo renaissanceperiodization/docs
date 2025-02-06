@@ -70,9 +70,13 @@ Particularly because there is so much in flux with the app, we request that you 
 
 # How to Provide Feedback
 
-To deliver feedback and to get help, please email diet-app-beta@rpstrength.com. Provide the device model and OS version, your app build number, screenshots or a screen recording, and as much information about what you were doing, what you expected to happen, what actually happened, and whether you can reliably reproduce the problem. Timely feedback (ie, as soon as the problem occurs) is most helpful, as that allows us to investigate issues that could be connected with your specific account data before you take further action that might wipe out evidence that provides valuable context.
+The best way to deliver feedback and to get help is to tap on the "Me" tab in the app, go to "Help", and then fill out and submit the form on the "Contact Us" page. That will automatically provide useful information about your app and device.
 
-To get the important version/build numbers, in the app, navigate to the "Me" tab, then "Help", then "About". Either include those in your email or take a screenshot of that page.
+However, if you are unable or you prefer, you can also email us at [diet-app-beta@rpstrength.com](mailto:diet-app-beta@rpstrength.com). If you choose to email us, make sure to provide the device model and OS version and your app version number. One place to find this information is in the app: Navigate to the "Me" tab, then "Help", then "About". Either include those in your email as text or take a screenshot of that page and attach it to your email.
+
+Whichever approach you use, please provide screenshots or a screen recording and as much information about what you were doing, what you expected to happen, what actually happened, and whether you can reliably reproduce the problem. Timely feedback (ie, as soon as the problem occurs) is most helpful, as that allows us to investigate issues that could be connected with your specific account data before you take further action that might wipe out evidence that provides valuable context.
+
+If you submitted the "Contact Us" form in the app, you can send screenshots and screen recordings by replying to the acknowledgement email you receive after submitting the form.
 
 Check out these resources for taking screenshots and recordings:
 * iOS
