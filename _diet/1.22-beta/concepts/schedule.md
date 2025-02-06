@@ -52,6 +52,13 @@ Yes. You can always manually schedule or reschedule any meal outside the range y
     
 Yes, and this is true regardless of whether you scheduled that manual meal inside the first/last meal range. For example, if you said that you want to eat 4 meals on Wednesdays, to be programmed between 9am and 10pm, and you manually specified 2 meals with particular macros, one at 1pm and another at 11pm, when you go through Weekly Planning, the RP algorithm will schedule only 2 additional meals for you, and they will be constrained to the 9am to 10pm window you specified.
 
+## What rules does the RP algorithm use to program the times of my meals?
+* A meal is implicitly considered to be a 30-minute event.
+* Therefore, a meal will be scheduled no closer than 30 minutes before the start of a workout.
+* A post-workout meal will be scheduled immediately after your workout ends.
+* Your last meal will be scheduled no later than 30 minutes before the end of the time range you specified for your meals.
+* Meals are otherwise spread out as evenly as possible throughout your specified meal window.
+
 ## Can I manually specify macros for workout shakes?
     
 Yes. Because shakes are tightly coupled with workouts, you can accomplish this through the workout editor, and if you do specify those macros manually, they will appear on the shake card that’s attached to your workout, rather than in the “Meals” section of the schedule template editor. Note that, unlike other meals, shakes do _not_ count against the total number of meals you set for a day.
