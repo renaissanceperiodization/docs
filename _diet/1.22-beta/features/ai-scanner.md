@@ -10,4 +10,4 @@ The beta version's database now includes many of those foods that you so painsta
 
 But more importantly, now, when a scanned barcode cannot be found, you are immediately prompted to take pictures of the product packaging and nutrition label, and the app uses "AI" to extract the relevant nutrition facts and prepopulate the form to create a custom food.
 
-Make sure to confirm that the macros in the form match your nutrition label, and submit--your newly created custom food is ready to use!
+Make sure to confirm that the macros in the form match your nutrition label, and submit! Your newly created custom food is ready to use!
