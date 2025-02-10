@@ -16,19 +16,19 @@ parent:         Concepts
 {: .note-title }
 > Summary of Key Points
 > - The schedule template is your “idealized” Monday through Sunday and serves as a blueprint for the RP Diet Coach app to program your actual schedule, including target daily macros and meals for each week.
-> - You can manually specify target macros for any day or meal within the schedule template, which the RP algorithm will then incorporate into its programming during Weekly Planning.
-> - Changes made to the schedule template won't affect any already-programmed weeks, but will be used for the next Weekly Planning session.
+> - You can manually specify target macros for any day or meal within the schedule template, which the RP algorithm will then incorporate into its programming during [Weekly Planning](/docs/diet-coach-app/1.22-beta/features/weekly-review-and-weekly-planning/).
+> - Changes made to the schedule template won't affect any already-programmed weeks, but will be used for the next [Weekly Planning](/docs/diet-coach-app/1.22-beta/features/weekly-review-and-weekly-planning/) session.
 > - The schedule template can be edited at any time during your diet, but it's best used for changes expected to apply to most or all future weeks.
-> - One-off changes for a specific week should be made directly in your schedule during the current week or during the Weekly Planning for the upcoming week.
+> - One-off changes for a specific week should be made directly in your schedule during the current week or during the [Weekly Planning](/docs/diet-coach-app/1.22-beta/features/weekly-review-and-weekly-planning/) for the upcoming week.
 
 # Overview
 When you start a diet, you will be asked a series of questions about your lifestyle and typical schedule for each day of the week, including when you work out, how many steps you plan to take, how many meals you want to eat, and within what time range you want the app to automatically program meals for you.
     
-This process creates a schedule template that's saved and then used as a blueprint for planning your actual schedule for any upcoming week during Weekly Planning.
+This process creates a schedule template that's saved and then used as a blueprint for planning your actual schedule for any upcoming week during [Weekly Planning](/docs/diet-coach-app/1.22-beta/features/weekly-review-and-weekly-planning/).
     
-The schedule template reflects your idealized schedule, so its days, Monday through Sunday, are not attached to specific calendar days. Moreover, by default, the schedule template does not have target macros at the week, day, or meal levels, nor does it have information about specific meal times. These values are programmed by the RP algorithm during Weekly Planning, based on your progress and what is recommended by the best scientific literature available.
+The schedule template reflects your idealized schedule, so its days, Monday through Sunday, are not attached to specific calendar days. Moreover, by default, the schedule template does not have target macros at the week, day, or meal levels, nor does it have information about specific meal times. These values are programmed by the RP algorithm during [Weekly Planning](/docs/diet-coach-app/1.22-beta/features/weekly-review-and-weekly-planning/), based on your progress and what is recommended by the best scientific literature available.
     
-However, to accommodate varying lifestyles and individualized needs, you can use the schedule template editor to manually specify the target total macros for any given day of the week, as well as any meals that you want to have at particular times with particular macros. When you go through Weekly Planning, whether at the start of your diet or between weeks, the RP algorithm will program the rest of your days’ target macros and remaining meals around the constraints you've specified in your schedule template.
+However, to accommodate varying lifestyles and individualized needs, you can use the schedule template editor to manually specify the target total macros for any given day of the week, as well as any meals that you want to have at particular times with particular macros. When you go through [Weekly Planning](/docs/diet-coach-app/1.22-beta/features/weekly-review-and-weekly-planning/), whether at the start of your diet or between weeks, the RP algorithm will program the rest of your days’ target macros and remaining meals around the constraints you've specified in your schedule template.
     
 For example, if you’re running a fat-loss diet and you know that you are most successful with adherence if you can eat 4000 calories on Saturdays, you can specify that in the template.
     
@@ -36,21 +36,21 @@ Or perhaps you know that you always need to have the same pre-bed meal Monday th
     
 The schedule template editor is powerful, so you must be careful about adding too many days with manual macro targets or too many manually specified meals. Doing so will limit the RP algorithm's ability to program the rest of your days and meals to allow you to achieve your diet goals.
     
-During initial diet setup and every weekend, you will go through Weekly Planning, in which the RP algorithm takes your schedule template and then programs your days’ calorie targets and meals based on the RP-recommended target average daily calories that will help you reach your diet goal.
+During initial diet setup and every weekend, you will go through [Weekly Planning](/docs/diet-coach-app/1.22-beta/features/weekly-review-and-weekly-planning/), in which the RP algorithm takes your schedule template and then programs your days’ calorie targets and meals based on the RP-recommended target average daily calories that will help you reach your diet goal.
     
-In Weekly Planning, you can edit the fully programmed schedule for only the upcoming week. Any changes you make to your schedule in Weekly Planning are _not_ saved to your schedule template.
+In [Weekly Planning](/docs/diet-coach-app/1.22-beta/features/weekly-review-and-weekly-planning/), you can edit the fully programmed schedule for only the upcoming week. Any changes you make to your schedule in [Weekly Planning](/docs/diet-coach-app/1.22-beta/features/weekly-review-and-weekly-planning/) are _not_ saved to your schedule template.
     
-Similarly, once you’re running your diet, you can make schedule edits on the fly (eg, add, remove, or modify meals or workouts), and these changes also do _not_ affect your template. When you get to Weekly Planning for the upcoming week, the schedule for that next week will start off with a freshly programmed version of your schedule template.
+Similarly, once you’re running your diet, you can make schedule edits on the fly (eg, add, remove, or modify meals or workouts), and these changes also do _not_ affect your template. When you get to [Weekly Planning](/docs/diet-coach-app/1.22-beta/features/weekly-review-and-weekly-planning/) for the upcoming week, the schedule for that next week will start off with a freshly programmed version of your schedule template.
     
 # FAQs
     
 ## Can I schedule a manual meal outside of the first/last meal range?
 
-Yes. You can always manually schedule or reschedule any meal outside the range you specified for the algorithm’s automatic programming. This applies to manual meals in the schedule template, as well as to any meals you edit in your schedule during Weekly Planning or when you’re running your diet.
+Yes. You can always manually schedule or reschedule any meal outside the range you specified for the algorithm’s automatic programming. This applies to manual meals in the schedule template, as well as to any meals you edit in your schedule during [Weekly Planning](/docs/diet-coach-app/1.22-beta/features/weekly-review-and-weekly-planning/) or when you’re running your diet.
 
 ## If I manually specify a meal on a particular day, does that count as one of however many meals I said I wanted to eat that day?
     
-Yes, and this is true regardless of whether you scheduled that manual meal inside the first/last meal range. For example, if you said that you want to eat 4 meals on Wednesdays, to be programmed between 9am and 10pm, and you manually specified 2 meals with particular macros, one at 1pm and another at 11pm, when you go through Weekly Planning, the RP algorithm will schedule only 2 additional meals for you, and they will be constrained to the 9am to 10pm window you specified.
+Yes, and this is true regardless of whether you scheduled that manual meal inside the first/last meal range. For example, if you said that you want to eat 4 meals on Wednesdays, to be programmed between 9am and 10pm, and you manually specified 2 meals with particular macros, one at 1pm and another at 11pm, when you go through [Weekly Planning](/docs/diet-coach-app/1.22-beta/features/weekly-review-and-weekly-planning/), the RP algorithm will schedule only 2 additional meals for you, and they will be constrained to the 9am to 10pm window you specified.
 
 ## What rules does the RP algorithm use to program the times of my meals?
 * A meal is implicitly considered to be a 30-minute event.
@@ -65,7 +65,7 @@ Yes. Because shakes are tightly coupled with workouts, you can accomplish this t
 
 ## Why can’t I edit my weigh-in times in the schedule template editor?
     
-While weigh-ins show up on your schedule as you’re running your diet, they do not appear in the schedule editor, in Weekly Review, or in the template editor. It is crucial that you are extremely consistent about weighing yourself under conditions that are as close to identical to one another as possible; as a result, the app discourages rescheduling your weigh-in times in the middle of your diet. If you must change your weigh-in times, you can find that in the app settings.
+While weigh-ins show up on your schedule as you’re running your diet, they do not appear in the schedule editor, in [Weekly Review](/docs/diet-coach-app/1.22-beta/features/weekly-review-and-weekly-planning/), or in the template editor. It is crucial that you are extremely consistent about weighing yourself under conditions that are as close to identical to one another as possible; as a result, the app discourages rescheduling your weigh-in times in the middle of your diet. If you must change your weigh-in times, you can find that in the app settings.
 
 ## I manually specified target macros and calories for a particular day, but I want to clear those values. How do I do that?
     
@@ -81,7 +81,7 @@ No. As with day targets, you must specify all macros to save a manual meal into 
 
 ## What happens if I start my diet on a day other than Monday?
     
-If you start your diet on any day other than Monday, your first Weekly Planning will include the remaining days of the week through Sunday, plus the full next week of Monday through Sunday. For example, if you start your diet on a Thursday, your first Weekly Planning will include Thursday to Sunday of the current week, as well as the full Monday through Sunday of the following week, for a total of 11 days, which you would scroll through in the day carousel at the top of various views, including your main schedule view as you’re running your diet. Note that your schedule template will be used as the blueprint for both Thursdays, both Fridays, both Saturdays, and both Sundays of this first 11-day cycle.
+If you start your diet on any day other than Monday, your first [[Weekly Planning](/docs/diet-coach-app/1.22-beta/features/weekly-review-and-weekly-planning/) will include the remaining days of the week through Sunday, plus the full next week of Monday through Sunday. For example, if you start your diet on a Thursday, your first [Weekly Planning](/docs/diet-coach-app/1.22-beta/features/weekly-review-and-weekly-planning/) will include Thursday to Sunday of the current week, as well as the full Monday through Sunday of the following week, for a total of 11 days, which you would scroll through in the day carousel at the top of various views, including your main schedule view as you’re running your diet. Note that your schedule template will be used as the blueprint for both Thursdays, both Fridays, both Saturdays, and both Sundays of this first 11-day cycle.
 
 ## How do I edit my schedule template in the middle of my diet?
 
@@ -89,14 +89,14 @@ Find the "Schedule Template" option on the "Me" tab. This is the current locatio
 
 ## What happens if I edit my schedule template in the middle of my diet?
     
-Any already-programmed weeks are not affected: The current week (what you see in your Schedule tab) is never affected. If you have _not_ yet done Weekly Planning for the following week, then schedule template edits _will_ be used as the baseline for that week’s planning. Conversely, if you _have_ already completed Weekly Planning for the next week, then any schedule template edits will _not_ affect next week’s schedule, but they _will_ apply to Weekly Planning for the following week.
+Any already-programmed weeks are not affected: The current week (what you see in your Schedule tab) is never affected. If you have _not_ yet done [Weekly Planning](/docs/diet-coach-app/1.22-beta/features/weekly-review-and-weekly-planning/) for the following week, then schedule template edits _will_ be used as the baseline for that week’s planning. Conversely, if you _have_ already completed [Weekly Planning](/docs/diet-coach-app/1.22-beta/features/weekly-review-and-weekly-planning/) for the next week, then any schedule template edits will _not_ affect next week’s schedule, but they _will_ apply to [Weekly Planning](/docs/diet-coach-app/1.22-beta/features/weekly-review-and-weekly-planning/) for the following week.
     
-For example, let’s say that today is Friday, January 5 for the week of January 1-7. If you have _not_ yet done Weekly Planning for January 8-14 and you make changes to your schedule template, then your edits _will_ be used to program that upcoming week. But if you _have_ already done your Weekly Planning for January 8-14 and you make changes to your schedule template, then your edits will only be used as the blueprint for Weekly Planning for January 15-21.
+For example, let’s say that today is Friday, January 5 for the week of January 1-7. If you have _not_ yet done [Weekly Planning](/docs/diet-coach-app/1.22-beta/features/weekly-review-and-weekly-planning/) for January 8-14 and you make changes to your schedule template, then your edits _will_ be used to program that upcoming week. But if you _have_ already done your [Weekly Planning](/docs/diet-coach-app/1.22-beta/features/weekly-review-and-weekly-planning/) for January 8-14 and you make changes to your schedule template, then your edits will only be used as the blueprint for [Weekly Planning](/docs/diet-coach-app/1.22-beta/features/weekly-review-and-weekly-planning/) for January 15-21.
 
 ## When should I edit my schedule, and when should I edit my schedule template?
     
 This is really a judgement call for you to make. Individual meals, workouts, and other aspects of your schedule don’t have “recurrence” settings the way that events in most calendaring applications do; instead, you use the schedule template to convey roughly the same idea, and that template is applied to each future week that you plan with the help of the RP algorithm’s programming.
     
-If you want to make edits that you expect to apply to most or all future weeks, editing your schedule template is probably a better bet, so that you don’t have to repeatedly make the same changes in each future Weekly Planning.
+If you want to make edits that you expect to apply to most or all future weeks, editing your schedule template is probably a better bet, so that you don’t have to repeatedly make the same changes in each future [Weekly Planning](/docs/diet-coach-app/1.22-beta/features/weekly-review-and-weekly-planning/).
     
-By contrast, if you have one-off changes that apply to only the current or upcoming week (or to only a few upcoming weeks), then you might prefer to make such changes in your schedule while running your diet for the current week (if it’s a change you couldn’t anticipate, such as suddenly getting sick) or during Weekly Review for the upcoming week (if it’s a change you planned for, such as travel or working around an appointment).
+By contrast, if you have one-off changes that apply to only the current or upcoming week (or to only a few upcoming weeks), then you might prefer to make such changes in your schedule while running your diet for the current week (if it’s a change you couldn’t anticipate, such as suddenly getting sick) or during [Weekly Review](/docs/diet-coach-app/1.22-beta/features/weekly-review-and-weekly-planning/) for the upcoming week (if it’s a change you planned for, such as travel or working around an appointment).
