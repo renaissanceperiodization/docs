@@ -13,7 +13,7 @@ If you want the schedule in the app to be true to life, you have two options:
     1. Long-press the meal from the "Schedule" tab and select "Edit target macros and time".
     2. Tap on the "..." overflow menu from inside the meal and select "Edit macros/time".
     3. Tap on the "..." overflow menu from the "Schedule" tab, select "Edit schedule", and change the times of multiple meals in one view.
-2. Update your schedule template with manually specified meals that will persist from week to week as the app programs your schedule. This will lock meals at the times you specified, and in future Weekly Plannings, the app will program meals around those meals with an appropriate buffer.<br /><br />For instance, instead of "busy time" between 11:00 and 12:00, you could instead configure a manual meal in your template for 10:45 or 12:00, and the app will not likely program a meal in the 11:00-12:00 window<br /><br />To add a manual meal,
+2. Update your [schedule template](/docs/diet-coach-app/1.22-beta/concepts/schedule/) with manually specified meals that will persist from week to week as the app programs your schedule. This will lock meals at the times you specified, and in future [Weekly Plannings](/docs/diet-coach-app/1.22-beta/features/weekly-review-and-weekly-planning/), the app will program meals around those meals with an appropriate buffer.<br /><br />For instance, instead of "busy time" between 11:00 and 12:00, you could instead configure a manual meal in your template for 10:45 or 12:00, and the app will not likely program a meal in the 11:00-12:00 window<br /><br />To add a manual meal,
     1. tap on the "Me" tab and select "Schedule Template", and
     2. tap on the "Add a manual meal" link in the "MEALS" section.
 
