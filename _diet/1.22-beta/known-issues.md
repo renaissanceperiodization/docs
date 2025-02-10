@@ -9,3 +9,4 @@ Following are a few known issues in the beta. We are aware of them, so it's not 
 * The app will sometimes flicker between screen transitions.
 * Performing certain operations and transitioning between screens can sometimes be sluggish. Please be patient!
 * When adding foods to a meal, there are duplicative buttons on each of the three steps: There are buttons that scroll with the food list, and there are buttons that float on top of the food list. These buttons are for adding proteins, fats, carbs, other foods, and accessing the barcode scanner.
+* The app will sometimes show target calories rounded to the nearest 5, rather than to the nearest 100. For now, this is provided for debugging purposes.
