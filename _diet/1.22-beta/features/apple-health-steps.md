@@ -12,4 +12,4 @@ If you enable getting steps from Apple Health, you'll notice that at the top of 
 
 This figure does not power the RP algorithm in any way--it is purely information for you, to know how you're doing relative to your target. The RP algorithm will always only use your committed-to step count target to determine allocation and scaling of calories and macros, so it basically assumes that you're as active as you say you're going to be.
 
-If you see that you're likely going to significantly under- or over-perform on steps, you can change your target to get an updated calorie recommendation for the day, which will be reflected in calories deducted or added to your Day Balance.
+If you see that you're likely going to significantly under- or over-perform on steps, you can change your target to get an updated calorie recommendation for the day, which will be reflected in calories deducted or added to your [Day Balance](/docs/diet-coach-app/1.22-beta/features/day-balance/).
