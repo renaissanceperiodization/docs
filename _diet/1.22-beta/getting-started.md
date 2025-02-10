@@ -96,6 +96,12 @@ Check out these resources for taking screenshots and recordings:
 
 Note that if you cannot join the beta, the testing pool may be full. Don't despair--we will launch publicly as soon as possible!
 
+{: .warning }
+> ⚠️ This is an early preview!
+> 
+> ❗️Once enrolled, there’s no way to go back to the previous app version.<br />
+> ❗️You will encounter bugs, including app crashes that can disrupt your diet.
+
 ## iOS
 
 1. If you don't already have it, install the TestFlight app:<br />
