@@ -69,7 +69,7 @@ While weigh-ins show up on your schedule as you’re running your diet, they do 
 
 ## I manually specified target macros and calories for a particular day, but I want to clear those values. How do I do that?
     
-Unlike manually added meals (which you can delete using the “Delete meal” option under its ⁝ (vertical kabob) overflow menu), to clear the manually specified target macros and calories at the day level, you use the ... (horizontal kabob) overflow menu at the top of the day and select “Clear day target macros”.
+Unlike manually added meals (which you can delete using the “Delete meal” option under its ⁝ (vertical kabob) overflow menu), to clear the manually specified target macros and calories at the day level, you use the "..." (horizontal kabob) overflow menu at the top of the day and select “Clear day target macros”.
 
 ## Can I specify just the target calories for a day without specifying the target macros?
     
