@@ -69,7 +69,7 @@ While weigh-ins show up on your schedule as you’re running your diet, they do 
 
 ## I manually specified target macros and calories for a particular day, but I want to clear those values. How do I do that?
     
-Unlike manually added meals (which you can delete using the “Delete meal” option under its vertical kabob overflow menu), to clear the manually specified target macros and calories at the day level, you use the horizontal kabob overflow menu at the top of the day and select “Clear day target macros”.
+Unlike manually added meals (which you can delete using the “Delete meal” option under its ⁝ (vertical kabob) overflow menu), to clear the manually specified target macros and calories at the day level, you use the ... (horizontal kabob) overflow menu at the top of the day and select “Clear day target macros”.
 
 ## Can I specify just the target calories for a day without specifying the target macros?
     
@@ -95,7 +95,7 @@ For example, let’s say that today is Friday, January 5 for the week of January
 
 ## When should I edit my schedule, and when should I edit my schedule template?
     
-This is really a judgement call for you to make. Individual meals, workouts, and other aspects of your schedule don’t have “recurrence” settings the way that events in most calendaring applications do; instead, you use the schedule template to convey roughly the same idea, and that template is applied to each future week that you plan with the help of the RP algorithm’s programming.
+This is really a judgement call for you to make. Individual meals, workouts, and other aspects of your schedule don’t have "recurrence" settings the way that events in most calendaring applications do; instead, you use the schedule template to convey roughly the same idea, and that template is applied to each future week that you plan with the help of the RP algorithm's programming.
     
 If you want to make edits that you expect to apply to most or all future weeks, editing your schedule template is probably a better bet, so that you don’t have to repeatedly make the same changes in each future [Weekly Planning](/docs/diet-coach-app/1.22-beta/features/weekly-review-and-weekly-planning/).
     
