@@ -6,7 +6,7 @@ parent:         Concepts
 
 The app no longer has a "busy time" feature to exclude times from meal programming.
 
-In general, meal timing is a minor optimization in diet success, provided that you generally space our your meals and follow macro guidance (eg, more carbs in a post-workout meal). So if the app consistently programs meals for you during inconvenient times, it's safe to ignore the recommendation and eat your meal earlier or later than prescribed.
+In general, meal timing is a minor optimization in diet success, provided that you generally space our your meals and follow macro guidance (eg, more carbs in a post-workout meal). So if the app consistently programs meals for you during inconvenient times, it's often safe to ignore the recommendation and eat your meal earlier or later than prescribed.
 
 If you want the schedule in the app to be true to life, you have two options:
 1. Manually reschedule individual meals when you have one-off conflicts. You can do this in one of three ways:
