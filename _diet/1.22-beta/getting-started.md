@@ -39,7 +39,7 @@ Once we have developed a stable version that we are comfortable publishing publi
 
 If you are in in the middle of a diet, most parts of your diet data will carry over seamlessly. However, because we have significantly changed how [checking in meals](/docs/diet-coach-app/1.22-beta/features/checking-in/) works, you should be aware of how that will be migrated over:
 * If, before upgrading, you checked in a meal
-    * "at macros" or did not check it in at all (and it's before the current time), your meal will be checked in at target macros in the beta version.
+    * "at macros", your meal will be checked in at target macros in the beta version.
     * "below macros", your meal will be checked in at 50% of the target macros.
     * "over macros", your meal will be checked in at 150% of the target macros.
 * Any meals that were not checked in before you upgraded will need to be checked in after. That includes if you have turned off checking in meals in the previous version of the app, since checking in meals is mandatory in this new version.
