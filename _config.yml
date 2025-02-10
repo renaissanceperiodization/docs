@@ -22,6 +22,9 @@ callouts:
   note:
     title: Note
     color: blue-energetic
+  warning:
+    title: Warning
+    color: red-energetic
 
 collections:
   diet:

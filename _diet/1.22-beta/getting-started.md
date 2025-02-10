@@ -4,6 +4,13 @@ nav_order:      100
 parent:         Diet Coach App 1.22 Beta
 ---
 
+{: .warning }
+> ⚠️ This is an early preview!
+> 
+> ❗️Once enrolled, there’s no way to go back to the previous app version.<br />
+> ❗️You will encounter bugs, including app crashes that can disrupt your diet.
+
+
 <details open markdown="block">
   <summary>
     &nbsp;Table of Contents
@@ -19,12 +26,6 @@ You should only sign up to participate in the beta if you're already familiar wi
 
 Keep in mind that, while the app can be run on tablets and on certain Mac computers, we discourage you from running it on those platforms, as we have not verified compatibility or stability, and so we cannot support you if you run into bugs.
 
-# Active Subscription is Required
-
-The beta version of the RP Diet Coach app is available to users under the same access terms as the production app, which means an active subscription is required. If you're already subscribed to the RP Diet Coach app, you'll be able to use the beta just like you would the regular version--your existing login and subscription will carry over automatically.
-
-If you're not currently subscribed, you'll need to sign up for a subscription to access the beta. The beta isn't a free trial, but rather an early-access version of the app with new features and improvements in development. We greatly appreciate our beta testers' feedback, and your participation helps us make the app even better!
-
 # No Going Back
 
 By enrolling in the beta, you are committing to enduring some amount of instability and potential disruption to being able to run your diet for the remainder of the beta period.
@@ -34,6 +35,12 @@ This is because upgrading to this new version fundamentally changes the structur
 We anticipate that the beta will last no longer than through the end of June 2025, but unforeseen circumstance may require us to run the beta for longer.
 
 Once we have developed a stable version that we are comfortable publishing publicly, your participation in the beta program will end, and you will upgrade to the latest version of the publicly available production app.
+
+# Active Subscription is Required
+
+The beta version of the RP Diet Coach app is available to users under the same access terms as the production app, which means an active subscription is required. If you're already subscribed to the RP Diet Coach app, you'll be able to use the beta just like you would the regular version--your existing login and subscription will carry over automatically.
+
+If you're not currently subscribed, you'll need to sign up for a subscription to access the beta. The beta isn't a free trial, but rather an early-access version of the app with new features and improvements in development. We greatly appreciate our beta testers' feedback, and your participation helps us make the app even better!
 
 # Migration Notes
 
