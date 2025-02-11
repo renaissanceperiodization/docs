@@ -1,8 +1,7 @@
 ---
 title:          Release Notes
 nav_order:      600
-# parent:         Diet Coach App 1.22 Beta
-nav_exclude:    true
+parent:         Diet Coach App 1.22 Beta
 ---
 
 As the beta progresses, release notes for each new version will be posted here.
@@ -16,6 +15,11 @@ As the beta progresses, release notes for each new version will be posted here.
 {:toc}
 </details>
 
-# 1.22.1
+# 1.22.1 (2025-02-10)
+* iOS build 6673
+* Android build 2956
 
-After the initial beta release, this will be the first next version.
+## Fixed
+{: .no_toc }
+
+* [Android] broken raw/cooked toggle (#3006)
