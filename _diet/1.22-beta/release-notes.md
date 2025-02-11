@@ -23,3 +23,12 @@ As the beta progresses, release notes for each new version will be posted here.
 {: .no_toc }
 
 * [Android] broken raw/cooked toggle (#3006)
+
+# 1.22.2 (2025-02-10)
+* iOS build 6675
+* Android build 2958
+
+## Fixed
+{: .no_toc }
+
+* [Android] crash when loading a screen with a picker
