@@ -31,4 +31,4 @@ As the beta progresses, release notes for each new version will be posted here.
 ## Fixed
 {: .no_toc }
 
-* [Android] crash when loading a screen with a picker (#ZD184617)
+* [Android] crash when loading a screen with a picker/dropdown (#ZD184617)
