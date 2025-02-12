@@ -13,11 +13,17 @@ parent:         Features
 {:toc}
 </details>
 
-The Day Balance is a feature that addresses a major challenge in the current publicly available app: redistributing macros across meals. It support two main scenarios:
+The Day Balance is a feature that addresses a major challenge in the current publicly available app: redistributing macros across meals.
+
+Think of your Day Balance as the relationship between your day targets and your meal targets: If you sum up the calorie/macro targets for all your meals, if that differs from your day's calorie/macro targets, that difference is your Day Balance.
+
+It support two main scenarios:
 1. As you go through the day, you're eating some amount over and under the target macros for your scheduled meals. If you're [checking in](/docs/diet-coach-app/1.22-beta/features/checking-in/) using "Allocate difference to Day Macro Balance", your Day Balance will reflect how many macros and calories you have available or how much you've gone over. You can then use various operations to automatically or manually adjust the target macros for remaining meals.
 2. You know in advance that you want some macros reserved for more flexible eating (such as supporting a snack). When you configure your schedule, you make sure that the macros for meal targets sum up to less than the day's targets.
 
 Think of the Day Balance as your "swap space", "snack bucket", or "flex macros".
+
+Keep in mind that the Day Balance does not carry over from one day to the next; it's "use it or lose it". If you want to redistribute your calories across days in the week, you need to adjust your day targets, which you can do in the "Edit schedule" mode--that will help you to make sure that you're still hitting your [target average daily calories](/docs/diet-coach-app/1.22-beta/concepts/calories/#target-average-daily-calories).
 
 {: .note-title }
 > Pro Tip
