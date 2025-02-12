@@ -12,3 +12,4 @@ Following are a few known issues in the beta. We are aware of them, so it's not 
 * The app will sometimes show target calories rounded to the nearest 5, rather than to the nearest 100. For now, this is provided for debugging purposes.
 * Shakes on the "Schedule" tab don't show the foods in the shake, even when "Show foods" is enabled.
 * In some cases, upgrading from 1.21 to 1.22.x on iOS does not request access to steps from Apple Health.
+* On Android, sometimes opening the keyboard will slide the sheet "up" out of view and make it not scrollable, rather than covering up the sheet and still alow scrolling of the content behind the keyboard.
