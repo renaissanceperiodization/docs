@@ -35,7 +35,7 @@ As the beta progresses, release notes for each new version will be posted here.
 * [Android] crash when loading a screen with a picker/dropdown (#ZD184617)
 
 
-# 1.22.3 (2025-02-10)
+# 1.22.3 (2025-02-11)
 * iOS build 6677
 * Android build 2960
 
