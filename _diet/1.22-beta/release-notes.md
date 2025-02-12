@@ -24,6 +24,7 @@ As the beta progresses, release notes for each new version will be posted here.
 
 * [Android] broken raw/cooked toggle (#L3006)
 
+
 # 1.22.2 (2025-02-10)
 * iOS build 6675
 * Android build 2958
@@ -32,3 +33,13 @@ As the beta progresses, release notes for each new version will be posted here.
 {: .no_toc }
 
 * [Android] crash when loading a screen with a picker/dropdown (#ZD184617)
+
+
+# 1.22.3 (2025-02-10)
+* iOS build 6677
+* Android build 2960
+
+## Fixed
+{: .no_toc }
+
+* [iOS] occasional account migration failure causing crash on login (#ZD184616, #ZD184620)
