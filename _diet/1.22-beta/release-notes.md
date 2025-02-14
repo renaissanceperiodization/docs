@@ -15,6 +15,19 @@ As the beta progresses, release notes for each new version will be posted here.
 {:toc}
 </details>
 
+
+# 1.22.5 (2025-02-13)
+* iOS build 6679
+* Android build 2962
+
+## Fixed
+{: .no_toc }
+
+* [Android] some sheets would extend into the Android Status Bar, making content unreadable and not tapable (#L3002)
+* [Android] keyboard would sometimes slide screens up out of view (#L3014)
+
+
+
 # 1.22.3 (2025-02-11)
 * iOS build 6677
 * Android build 2960
