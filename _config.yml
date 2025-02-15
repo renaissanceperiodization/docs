@@ -8,7 +8,7 @@ image: "https://rpstrength.com/cdn/shop/files/RP_social-sharing_3.jpg?v=17295337
 
 twitter:
   username: "RPStrength"
-  card: "summary"
+  card: "summary_large_image"
 
 facebook:
   publisher: "@rpstrength"
