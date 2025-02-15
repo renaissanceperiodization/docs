@@ -1,6 +1,6 @@
 ---
 title:          Apple Health for Steps (iOS Only)
-nav_order:      600
+nav_order:      700
 parent:         Features
 ---
 
