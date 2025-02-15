@@ -1,6 +1,6 @@
 ---
 title:          AI Scanner
-nav_order:      600
+nav_order:      700
 parent:         Features
 ---
 
