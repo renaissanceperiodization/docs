@@ -3,6 +3,26 @@ description: Documentation for RP Strength Apps
 remote_theme: just-the-docs/just-the-docs
 
 url: https://docs.rpstrength.com
+logo: "/assets/images/logo-docs-big@2x.png" # site logo for Just the Docs
+image: "https://rpstrength.com/cdn/shop/files/RP_social-sharing_3.jpg?v=1729533710" # OpenGraph via jekyll-seo-tag
+
+seo:
+  title: "%title | RP Strength Docs"
+
+twitter:
+  username: "RPStrength"
+  card: "summary"
+
+facebook:
+  publisher: "@rpstrength"
+
+social:
+  name: "RP Strength"
+  links:
+    - https://www.facebook.com/@rpstrength
+    - https://x.com/rpstrength
+    - https://www.instagram.com/rpstrength
+    - https://www.linkedin.com/company/rpstrength/
 
 aux_links:
   Diet Coach App Home: https://rpstrength.com/pages/diet-coach-app
@@ -10,8 +30,6 @@ aux_links:
 
 
 aux_links_new_tab: true
-
-logo: "/assets/images/logo-docs-big@2x.png"
 
 back_to_top: true
 back_to_top_text: "Back to top"
