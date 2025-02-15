@@ -32,7 +32,7 @@ As the beta progresses, release notes for each new version will be posted here.
 * occasional missing weigh-in list in Weekly Review
 * meal count debug information card sometimes showing up in incorrect order (#L3023, #ZD184983)
 * adding/deleting/editing workout sometimes empties meals on future days (#L3021)
-* [Android] some sheets would extend into the Android Status Bar, making content unreadable and not tapable (#L3002, #ZD184827, #ZD184985)
+* [Android] some sheets would extend into the Android Status Bar, making content unreadable and not tappable (#L3002, #ZD184827, #ZD184985)
 
 
 
@@ -43,7 +43,7 @@ As the beta progresses, release notes for each new version will be posted here.
 ## Fixed
 {: .no_toc }
 
-* [Android] some sheets would extend into the Android Status Bar, making content unreadable and not tapable (#L3002)
+* [Android] some sheets would extend into the Android Status Bar, making content unreadable and not tappable (#L3002)
 * [Android] keyboard would sometimes slide screens up out of view (#L3014)
 
 
