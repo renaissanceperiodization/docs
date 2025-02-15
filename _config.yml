@@ -4,7 +4,7 @@ remote_theme: just-the-docs/just-the-docs
 
 url: https://docs.rpstrength.com
 logo: "/assets/images/logo-docs-big@2x.png" # site logo for Just the Docs
-image: "https://rpstrength.com/cdn/shop/files/RP_social-sharing_3.jpg?v=1729533710" # OpenGraph via jekyll-seo-tag
+image: "https://rpstrength.com/cdn/shop/files/RP_social-sharing_3.jpg?v=1729533710"
 
 twitter:
   username: "RPStrength"
@@ -57,6 +57,11 @@ just_the_docs:
       name: Hypertrophy App
 
 defaults:
+  -
+    scope:
+      path: ""
+    values:
+      image: "https://rpstrength.com/cdn/shop/files/RP_social-sharing_3.jpg?v=1729533710"
   -
     scope:
       path: "docs/**/index.md"
