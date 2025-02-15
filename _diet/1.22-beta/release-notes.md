@@ -15,6 +15,26 @@ As the beta progresses, release notes for each new version will be posted here.
 {:toc}
 </details>
 
+# 1.22.6 (2025-02-14)
+* iOS build 6681
+* Android build 2964
+
+## Changed
+{: .no_toc }
+* diet end flow now parallels Weekly Review's new check-in paradigm (#L2873)
+
+## Fixed
+{: .no_toc }
+
+* occasional failure to copy day (#L3022, #ZD185080)
+* day target macros could go negative (#L2019, #ZD184916)
+* shake cards on Schedule didn't show foods (#L3009, #ZD184617, #ZD184847)
+* occasional missing weigh-in list in Weekly Review
+* meal count debug information card sometimes showing up in incorrect order (#L3023, #ZD184983)
+* adding/deleting/editing workout sometimes empties meals on future days (#L3021)
+* [Android] some sheets would extend into the Android Status Bar, making content unreadable and not tapable (#L3002, #ZD184827, #ZD184985)
+
+
 
 # 1.22.5 (2025-02-13)
 * iOS build 6679
