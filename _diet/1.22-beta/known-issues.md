@@ -2,6 +2,7 @@
 title:          Known Issues
 nav_order:      400
 parent:         Diet Coach App 1.22 Beta
+description:    "Known issues in the RP Diet Coach App 1.22 beta: Some are bugs, some are performance issues, and some are areas for UI improvement."
 ---
 
 Following are a few known issues in the beta. We are aware of them, so it's not important that you report them to us. Some are bugs, some are performance issues, and some are areas for UI improvement.
