@@ -16,6 +16,7 @@ Following are a few known issues in the beta. We are aware of them, so it's not 
 * In some cases, upgrading from 1.21 to 1.22.x on iOS does not request access to steps from Apple Health.
 * There is currently no mechanism to holistically copy over all meals' foods from the week being reviewed to the week being planned. This is a functionality we will be reintroducing in the future. In the meantime, after completing [Weekly Review and Planning](/docs/diet-coach-app/1.22-beta/features/weekly-review-and-weekly-planning/), you can either copy individual meals' foods over into meals in your upcoming week, or you can holistically copy entire days using "Edit schedule" (from the "..." overflow menu on the "Schedule" tab). Just make sure to check the configuration options for the copy operation to make sure you're copying only exactly what you want (eg, not necessarily copy the source day's target macros).
 * "Schedule Template" on the "Me" tab may occasionally become unresponsive and do nothing. Current workaround is to force quit the app and restart it. (#ZD185211)
+* Certain days sometimes can't be navigated to on the "Schedule" tab. Current workaround is to force quit the app and restart it. Or, if possible, swipe the day carousel to another week, select the same day of the week for the day that's not navigable to, then swipe back, and the day should be selected. (#ZD185234, #L2936)
 
 
 # Resolved Issues
