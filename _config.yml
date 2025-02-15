@@ -6,9 +6,6 @@ url: https://docs.rpstrength.com
 logo: "/assets/images/logo-docs-big@2x.png" # site logo for Just the Docs
 image: "https://rpstrength.com/cdn/shop/files/RP_social-sharing_3.jpg?v=1729533710" # OpenGraph via jekyll-seo-tag
 
-seo:
-  title: "%title | RP Strength Docs"
-
 twitter:
   username: "RPStrength"
   card: "summary"
