@@ -106,6 +106,28 @@ However, if you feel a strong urgency to reprogram the rest of the week and get 
 
 # I did my Weekly Review and Planning before the end of the weekend, but then significantly deviated from my targets over the weekend, and now the app is saying I have an updated recommendation. What should I do?
 
+Unlike the guidance for mid-week adjustments in [I went way off the rails and ate way more or less than the app told me to. What should I do?](#i-went-way-off-the-rails-and-ate-way-more-or-less-than-the-app-told-me-to-what-should-i-do) above, in this scenario, it's a good idea to reprogram your week. This is essentially redoing [Weekly Planning](/docs/diet-coach-app/1.22-beta/features/weekly-review-and-weekly-planning/).
+
+However, you may have already done a significant amount of meal planning in the upcoming week, and you don't want to accidentally wipe out all that work.
+
+Here's what to do if there are just a few meals that you've already planned out (ie, added foods to) that you want to preserve:
+
+1. For any meal you definitely don't want reprogrammed (time or foods), go to that meal in the upcoming week on the "Schedule" tab and [lock](/docs/diet-coach-app/1.22-beta/concepts/locks-and-pins/) it. The easiest way to do that is to swipe left on the meal card. Keep in mind that this will prevent the meal's macros from being reprogrammed, so that will limit the algorithm's effectiveness somewhat, but changes can still be applied to your [Day Balance](/docs/diet-coach-app/1.22-beta/features/day-balance/) for you to reallocate manually later.
+2. Navigate to a day next week on the "Schedule" tab and go to "Edit schedule" by tapping on the "..." (horizontal kabob) overflow menu.
+3. Make whatever other changes you want to make to your schedule next week (eg, any workouts you forgot to add/remove/modify).
+4. Select the [target average daily calories](/docs/diet-coach-app/1.22-beta/concepts/calories/#target-average-daily-calories) you want, presumably the RP-recommended value with the red shield.
+5. Run [Auto-configure](/docs/diet-coach-app/1.22-beta/features/auto-configure/) using the 🪄 (magic wand) icon on all the days of the week. Keep all the [options](/docs/diet-coach-app/1.22-beta/features/auto-configure/#configuration-options) enabled, since you want the unlocked meals to be reprogrammed, and you _definitely_ want day targets to be adjusted.
+
+Here's what to do if you you have planned nearly all your meals already (and it would be a pain to go through and lock a ton of them):
+
+1. Navigate to a day next week on the "Schedule" tab and go to "Edit schedule" by tapping on the "..." (horizontal kabob) overflow menu.
+2. Make whatever other changes you want to make to your schedule next week (eg, any workouts you forgot to add/remove/modify).
+3. Select the [target average daily calories](/docs/diet-coach-app/1.22-beta/concepts/calories/#target-average-daily-calories) you want, presumably the RP-recommended value with the red shield.
+4. Run [Auto-configure](/docs/diet-coach-app/1.22-beta/features/auto-configure/) using the 🪄 (magic wand) icon on all the days of the week.<br />_**Important:** Set the following [options](/docs/diet-coach-app/1.22-beta/features/auto-configure/#configuration-options):_
+  * [Adjust day calories and macros](/docs/diet-coach-app/1.22-beta/features/auto-configure/#adjust-day-calories-and-macros): Keep this ON.
+  * [Adjust macros of unlocked meals](/docs/diet-coach-app/1.22-beta/features/auto-configure/#adjust-macros-of-unlocked-meals): Turn this OFF.<br />_This is part of what will tell the RP algorithm to preserve all the meals that you already planned._
+  * [Adjust times of unlocked meals](/docs/diet-coach-app/1.22-beta/features/auto-configure/#adjust-times-of-unlocked-meals): Turn this OFF.<br />_This is part of what will tell the RP algorithm to preserve all the meals that you already planned._
+
 {% comment %}
 THIS DEPENDS ON ENG-3025
 
