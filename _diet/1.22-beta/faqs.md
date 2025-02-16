@@ -45,7 +45,27 @@ And, of course, perhaps during [Weekly Planning](/docs/diet-coach-app/1.22-beta/
 
 # I skipped a meal. What should I do?
 
+If you actually didn't eat the prescribed meal, delete it in the app. We recommend _against_ [checking it in](/docs/diet-coach-app/1.22-beta/features/checking-in/) at 0 macros/calories (or worse, at some positive number of macros/calories!), because that can interfere with [Auto-configure](/docs/diet-coach-app/1.22-beta/features/auto-configure/)'s scheduling algorithm if you choose to use it.
+
+If, by contrast, you're actually just going to eat the meal at another time during the day (whether you already ate it earlier or plan to eat it later), feel free to just change its time and then [check it in](/docs/diet-coach-app/1.22-beta/features/checking-in/) accordingly.
+
 # I forgot to log a meal and can't remember what I ate. What should I do?
+
+Don't panic! But also don't just delete the meal! The same principle applies if you didn't record what you ate for a whole day or even for a few days.
+
+The updated RP algorithm depends on knowing what you ate to give you accurate week-over-week recommendations. But sometimes, life happens, and you just couldn't log a meal, you forgot, or you just fell off the wagon. No big deal. Here's what to do:
+
+Estimate.
+
+If you can guess at the foods (especially the most caloric ones) that you ate in various meals and make a guess as to how much you ate, just put that in and then [check in using the "Allocate difference to Day Macro Balance" option](/docs/diet-coach-app/1.22-beta/features/checking-in/#:~:text=Allocate%20difference%20to%20Day%20Macro%20Balance). Do this even if you don't plan to interact with the [Day Balance](/docs/diet-coach-app/1.22-beta/features/day-balance/) for that day, since this still tells the app that for that meal, you ate the macros of the added foods.
+
+If you can't really guess at the foods, but you have a sense for the macros, you can always [check in the meal using the "Manually specify macros"](/docs/diet-coach-app/1.22-beta/features/checking-in/#:~:text=Manually%20specify%20macros) option.
+
+And if you really don't know, but you know you ate the meal, just ["Check in at target macros"](/docs/diet-coach-app/1.22-beta/features/checking-in/#:~:text=Check%20in%20at%20target%20macros).
+
+If you've missed a whole day (or multiple days) and can't even remember which meals you ate, ["Check in at target macros"](/docs/diet-coach-app/1.22-beta/features/checking-in/#:~:text=Check%20in%20at%20target%20macros) for all the meals of those days.
+
+Just don't sweat it. Of course, the app will work better for you when you give it accurate information, but as long as you get back on track, by the time of your following [Weekly Review and Planning](/docs/diet-coach-app/1.22-beta/features/weekly-review-and-weekly-planning/), the app will be able to readjust and give you accurate recommendations again.
 
 # I did my Weekly Review and Planning before the end of the weekend, but then significantly deviated from my targets over the weekend, and now the app is saying I have an updated recommendation. What should I do?
 
