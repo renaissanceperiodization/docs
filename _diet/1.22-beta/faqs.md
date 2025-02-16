@@ -67,6 +67,43 @@ If you've missed a whole day (or multiple days) and can't even remember which me
 
 Just don't sweat it. Of course, the app will work better for you when you give it accurate information, but as long as you get back on track, by the time of your following [Weekly Review and Planning](/docs/diet-coach-app/1.22-beta/features/weekly-review-and-weekly-planning/), the app will be able to readjust and give you accurate recommendations again.
 
+# I went way off the rails and ate way more or less than the app told me to. What should I do?
+
+Let's say you're on a cut, your [target average daily calories](/docs/diet-coach-app/1.22-beta/concepts/calories/#target-average-daily-calories) is set to the RP-recommended value of 2000, and it's Wednesday evening. Let's say that it was a higher-than normal activity day, so your day target was 2200, but you were so starving that you ended up eating 3950 instead. Let's say that you otherwise ate exactly according to plan. So now, you're [trending toward](/docs/diet-coach-app/1.22-beta/concepts/calories/#trending-toward-average) a 2250 average, rather than a 2000 average, which would _slow_ your weight loss by roughly 0.5 lbs per week, perhaps even causing you to maintain or gain weight this week.
+
+First things first--
+
+Don't let this cause you to spin out. Sure, feel guilty about it, if that's helpful and motivating for you, but don't dwell or ruminate on it. Don't beat yourself up.
+
+It is _absolutely_ okay to just write the day off and continue on as planned, without making any adjustments. Indeed, that is the baseline RP recommendation.
+
+However, if this is going to subtly nag at you and lead you to try to get back on track by swagging it (and perhaps unhealthily starving yourself by overcompensating) or even by trying to pull out pencil and paper and do your own calculations, the app has tools to help you to readjust safely.
+
+After you're done [checking in](/docs/diet-coach-app/1.22-beta/features/checking-in/) your meals on the "problematic" day...
+1. Go to "Edit schedule" from the "..." (horizontal kabob) overflow menu on the "Schedule" tab.
+2. Make any other adjustments you need to your schedule, including remaining workouts for the week, step count targets, etc.
+3. Select the RP-recommended [target average daily calories](/docs/diet-coach-app/1.22-beta/concepts/calories/#target-average-daily-calories) (or a different value if you really know what you're doing).
+4. Run [Auto-configure](/docs/diet-coach-app/1.22-beta/features/auto-configure/) on the remaining days of the week.
+
+The RP app will do its best to reprogram the remainder of your week to get you in line with your diet goals as safely as possible--but keep in mind that the remainder of the week may end up being a lot more difficult than you anticipate, and the risk is that, if you struggle to abide by the new recommendations, that can lead to more guilt and frustration. We really only recommend this if you know what you're doing, you won't be thrown for a psychological loop, and you're willing to be flexible and gentle with yourself.
+
+
+# I started my week by selecting the RP-recommended target average daily calories, but in the middle of the week, it looks like the RP recommendation has changed. What should I do?
+
+It really depends on what will help _you_ to diet more effectively, based on your individual psychological dispositions.
+
+The RP recommendation will typically only change in the middle of a week when you have made significant mid-week changes to your activity levels (adding/removing/modifying workouts or step count targets).
+
+You'll notice that when you make those changes, you're prompted to accept or decline a change to your day macro/calorie targets. If you accept those changes, your average daily calories will _generally_ [trend toward](/docs/diet-coach-app/1.22-beta/concepts/calories/#trending-toward-average) the RP-recommended [target average daily calories](/docs/diet-coach-app/1.22-beta/concepts/calories/#target-average-daily-calories), but it might not be equal to it if you've also veered off course from your day targets. Note that accepting the change to day targets when you change your activity levels does _not_ automatically change your selected [target average daily calories](/docs/diet-coach-app/1.22-beta/concepts/calories/#target-average-daily-calories).
+
+If you decline the change to your day targets when you change your activity levels, the RP recommendation may still change, but neither your day targets nor your [target average daily calories](/docs/diet-coach-app/1.22-beta/concepts/calories/#target-average-daily-calories) will automatically change.
+
+The reason that the app does not make those kinds of changes automatically in the middle of a week and doesn't even encourage you to make them on your own is that _for many people, it's psychologically unhealthy to introduce that amount of thrash_. This is equivalent to looking at the scale every day and then trying to change how many calories you eat that day...like if you're on a cut, randomly gain some water weight, and then starve yourself that day because you fear you've actually gained weight. It's not good for you.
+
+While you _can_ up- and down-regulate calories on a particular day to scale with your activity levels, RP recommends that, in most cases, you just continue on with your week as programmed. Remember that [Weekly Review and Planning](/docs/diet-coach-app/1.22-beta/features/weekly-review-and-weekly-planning/) will catch your progress based on your actual eating and make updated recommendations for the following week. It's rarely critical to replan the remainder of the current week because life got a bit messy.
+
+However, if you feel a strong urgency to reprogram the rest of the week and get in line with the optimal RP recommendation, those tools are available to you. The chief reason that you would want to do this is if you know that you will be subconsciously inclined to try to correct for the changes yourself, and you'd rather get safe recommendations from the app than try to swag it. In that case, by all means, go to "Edit schedule", make any additional schedule changes you need to (eg, adding/removing/modifying workouts or step count targets), select the RP-recommended [target average daily calories](/docs/diet-coach-app/1.22-beta/concepts/calories/#target-average-daily-calories), and then run [Auto-configure](/docs/diet-coach-app/1.22-beta/features/auto-configure/) on the remaining days this week to help you to get back on track.
+
 # I did my Weekly Review and Planning before the end of the weekend, but then significantly deviated from my targets over the weekend, and now the app is saying I have an updated recommendation. What should I do?
 
 {% comment %}
