@@ -22,7 +22,7 @@ This is especially useful in a number of cases:
 2. You have added, removed, or modified numerous meals--or you have added, removed, or modified workouts or activity levels--and you want to reprogram your meals with optimized macros and timing.
 3. You have been [checking in](/docs/diet-coach-app/1.22-beta/features/checking-in/) your meals over or under their original targets--or you have configured future days' meals over or under--and you're left with a [Day Balance](/docs/diet-coach-app/1.22-beta/features/day-balance/) that you want to have optimally and holistically redistributed.
 
-In the previous version of the RP Diet Coach app, when you made modifications to your meals, it was up to you to manually adjust the rest of your meals to get ideal timing and get your macros to add up to the day targets.
+In the previous version of the RP Diet Coach App, when you made modifications to your meals, it was up to you to manually adjust the rest of your meals to get ideal timing and get your macros to add up to the day targets.
 
 With Auto-configure, you get any of the benefits of RP programming that you want on demand, rather than only once at [Weekly Review](/docs/diet-coach-app/1.22-beta/features/weekly-review-and-weekly-planning/).
 

@@ -38,7 +38,7 @@ Once we have developed a stable version that we are comfortable publishing publi
 
 # Active Subscription is Required
 
-The beta version of the RP Diet Coach app is available to users under the same access terms as the production app, which means an active subscription is required. If you're already subscribed to the RP Diet Coach app, you'll be able to use the beta just like you would the regular version--your existing login and subscription will carry over automatically.
+The beta version of the RP Diet Coach App is available to users under the same access terms as the production app, which means an active subscription is required. If you're already subscribed to the RP Diet Coach App, you'll be able to use the beta just like you would the regular version--your existing login and subscription will carry over automatically.
 
 If you're not currently subscribed, you'll need to sign up for a subscription to access the beta. The beta isn't a free trial, but rather an early-access version of the app with new features and improvements in development. We greatly appreciate our beta testers' feedback, and your participation helps us make the app even better!
 
@@ -111,13 +111,13 @@ Option 2: Manual Search and Installation
     2. In the search bar, enter "TestFlight".
     3. Locate the "TestFlight" app in the search results (make sure that "Apple" is the developer of the app) and tap the "Get" or download icon to install it.
 2. Join the beta testing program:
-    1. After installing TestFlight, [join the "Open External Beta" TestFlight group](https://testflight.apple.com/join/k6rTNPTe){:target="&lowbar;blank"}. (Make sure to tap on this link from your phone!) This link will automatically open the TestFlight app and display the RP Diet Coach app beta invitation.
+    1. After installing TestFlight, [join the "Open External Beta" TestFlight group](https://testflight.apple.com/join/k6rTNPTe){:target="&lowbar;blank"}. (Make sure to tap on this link from your phone!) This link will automatically open the TestFlight app and display the RP Diet Coach App beta invitation.
     2. Tap "Accept" to join the beta testing program.
 3. Install the beta version of the app: Within TestFlight, after accepting the invitation, you will see the RP Diet Coach App listed. Tap the "Install" button next to the app to download and install the beta version. (If you already have the RP Diet Coach App installed, this beta version will replace the existing app on your device.)
 
 ## Android
 
-1. Install the RP Diet Coach app:<br />
+1. Install the RP Diet Coach App:<br />
 Option 1: [Direct Link](https://play.google.com/store/apps/details?id=com.rp.rpdiet){:target="&lowbar;blank"} (Make sure to tap on this link from your Android phone!)<br />
 Option 2: Manual Search and Installation
     1. Open the Google Play Store on your Android device.

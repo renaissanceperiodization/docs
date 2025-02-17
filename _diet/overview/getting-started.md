@@ -19,7 +19,7 @@ Subscriptions purchased in iTunes or Google Play are subject to the policies tho
 
 For subscriptions purchased via Stripe, there is a 30 day money back guarantee. We can offer this as we have access to the subscriptions in this server and cancel and process refunds. To qualify for a refund, users must reach out to either [info@rpstrength.com](mailto:info@rpstrength.com) or [app.support@rpstrength.com](mailto:app.support@rpstrength.com) requesting a refund within the first 30 days of their subscription. Refunds requested outside of this timeframe are not guaranteed. 
 
-# Is the RP Diet Coach app the right product for me?
+# Is the RP Diet Coach App the right product for me?
 
 The RP Diet coach app is an excellent app for most folks. However, there are usability and health exceptions. 
 
@@ -73,7 +73,7 @@ Other health conditions may also require consultation with a Registered Dietitia
 
 See our [full medical waiver](https://rp-website-production-files.s3.us-east-2.amazonaws.com/App_Med_Waiver__1.pdf){:target="&lowbar;blank"}.
 
-# How the RP Diet Coach app different from other apps?
+# How the RP Diet Coach App different from other apps?
 
 The RP Diet App builds you a plan exactly and only for your specific needs, schedule, and preferences. It’s the least generic diet plan that’s ever been sold.
 
@@ -81,7 +81,7 @@ The app tells you what macros to hit meal by meal, and give you exact weights of
 
 <iframe src="//www.youtube-nocookie.com/embed/-fBfpPBfnP4"  class="youtube-video" frameborder="0" allowfullscreen=""></iframe>
 
-# Does the RP Diet Coach app support special diets?
+# Does the RP Diet Coach App support special diets?
 
 Yes! Whether it is your preference, of a food allergy, this plan offers extensive flexibility. YOU get to choose all food sources (within their allotted portions) from our list of recommended foods, so you can be sure to steer clear of anything you need to.
 
@@ -111,7 +111,7 @@ This plan offers extensive flexibility. YOU get to choose all food sources (with
 
 # Creating an app account and signing in
 
-The RP Diet Coach app allows users to sign in via multiple methods. 
+The RP Diet Coach App allows users to sign in via multiple methods. 
 
 We recommend that once you choose your method of log-in, that you sign in with that method every time. Otherwise, there is a risk of creating multiple accounts.
 

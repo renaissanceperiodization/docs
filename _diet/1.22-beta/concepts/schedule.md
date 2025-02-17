@@ -15,7 +15,7 @@ parent:         Concepts
 
 {: .note-title }
 > Summary of Key Points
-> - The schedule template is your “idealized” Monday through Sunday and serves as a blueprint for the RP Diet Coach app to program your actual schedule, including target daily macros and meals for each week.
+> - The schedule template is your “idealized” Monday through Sunday and serves as a blueprint for the RP Diet Coach App to program your actual schedule, including target daily macros and meals for each week.
 > - You can manually specify target macros for any day or meal within the schedule template, which the RP algorithm will then incorporate into its programming during [Weekly Planning](/docs/diet-coach-app/1.22-beta/features/weekly-review-and-weekly-planning/).
 > - Changes made to the schedule template won't affect any already-programmed weeks, but will be used for the next [Weekly Planning](/docs/diet-coach-app/1.22-beta/features/weekly-review-and-weekly-planning/) session.
 > - The schedule template can be edited at any time during your diet, but it's best used for changes expected to apply to most or all future weeks.

@@ -56,7 +56,7 @@ When the RP algorithm programs your day targets, it attempts to take into accoun
 
 A feature you will likely be interacting with a significant amount is your [Day Balance](/docs/diet-coach-app/1.22-beta/features/day-balance/). This represents the difference between a day's target calories/macros and the sum of all the meals' target calories/macros. Essentially, this tells you how much your planned meals, taken all together, are over or under, relative to your day's targets, and it allows you to more flexibly reallocate calories/macros between meals on the same day. Note that the [Day Balance](/docs/diet-coach-app/1.22-beta/features/day-balance/) does _not_ carry over to another day--if you have eaten significantly over or under on a particular day, that is reflected in a change to your "trending-toward average", once you've checked in all the day's meals.
 
-Note that, unlike the current publicly available version of the RP Diet Coach app, you no longer need to painstakingly align all your meals' targets so that they sum up to your day targets.
+Note that, unlike the current publicly available version of the RP Diet Coach App, you no longer need to painstakingly align all your meals' targets so that they sum up to your day targets.
 
 # Meal-Level Calories and Macros
 

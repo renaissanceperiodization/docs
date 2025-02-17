@@ -24,7 +24,7 @@ Unless you wake up and train very soon upon waking, it’s strongly recommended 
 
 # How important is it to eat at the times suggested?
 
-The RP Diet Coach app provides recommended meal times. It’s no problem to deviate by +/- 30 minutes to accommodate your schedule, but to maximize energy, fullness, and muscle building, do your best to eat as close to the suggested times as you can.
+The RP Diet Coach App provides recommended meal times. It’s no problem to deviate by +/- 30 minutes to accommodate your schedule, but to maximize energy, fullness, and muscle building, do your best to eat as close to the suggested times as you can.
 
 
 # How soon after a workout should I eat?
