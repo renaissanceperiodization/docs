@@ -19,7 +19,7 @@ As the beta progresses, we'll supplement the documentation and add more frequent
 
 Keep in mind that the app is still primarily a _macro_ planner. The benefits of exposing the calorie information are to help you to calibrate more effectively across days and to build up an intuition around calorie needs for various goals.
 
-At the end of the day, net calories is going to be the chief driver of body morphology changes, and we'd gotten a lot of feedback requesting transparency around calories.
+At the end of the day, net calories is going to be the chief driver of body composition changes, and we'd gotten a lot of feedback requesting transparency around calories.
 
 Indeed, our hope with how we've restructured the app is to further avoid encouraging an unhealthy relationship with food, by allowing for greater flexibility: For example, instead of obsessing over hitting your macros perfectly, you can now more easily flex between macros and still hit your calorie targets. Or, for instance, if you know you need the psychological relief of a more relaxed eating day each week (or you know you're going to go out to eat on a particular day), the app can help you to readjust your calorie distribution throughout the week, so that you're still hitting your goals.
 
