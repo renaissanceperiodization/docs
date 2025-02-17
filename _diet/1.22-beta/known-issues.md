@@ -20,6 +20,7 @@ Following are a few known issues in the beta. We are aware of them, so it's not 
 * Despite our efforts in [1.22.5](/docs/diet-coach-app/1.22-beta/release-notes/#1225-2025-02-13) and [1.22.6](/docs/diet-coach-app/1.22-beta/release-notes/#1226-2025-02-14), which did make some improvements, some sheets continue to extend into the Android Status Bar on some devices, making content unreadable and not tappable. (#ZD185476, #L3002)
 * The calendar icon at the top of the "Schedule" tab currently doesn't do anything. This is a functionality we'll be reevaluating as part of a coming visual redesign.
 * The info button next to [Day Balance](https://docs.rpstrength.com/docs/diet-coach-app/1.22-beta/features/day-balance/) on the "Add workout" and "Edit workout" sheets shows placeholder text instead of any actual helpful text! (#ZD185477, #L2974)
+* Meals will sometimes get automatically programmed outside the [specified range](https://docs.rpstrength.com/docs/diet-coach-app/1.22-beta/concepts/sleep-and-preferred-meal-time-range/). (#ZD185485, #L3026)
 
 
 # Resolved Issues
