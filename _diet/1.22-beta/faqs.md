@@ -15,6 +15,20 @@ As the beta progresses, we'll supplement the documentation and add more frequent
 {:toc}
 </details>
 
+# Why does the app show calories now? I liked it better when it just showed me macros!
+
+Keep in mind that the app is still primarily a _macro_ planner. The benefits of exposing the calorie information are to help you to calibrate more effectively across days and to build up an intuition around calorie needs for various goals.
+
+At the end of the day, net calories is going to be the chief driver of body morphology changes, and we'd gotten a lot of feedback requesting transparency around calories.
+
+Indeed, our hope with how we've restructured the app is to further avoid encouraging an unhealthy relationship with food, by allowing for greater flexibility: For example, instead of obsessing over hitting your macros perfectly, you can now more easily flex between macros and still hit your calorie targets. Or, for instance, if you know you need the psychological relief of a more relaxed eating day each week (or you know you're going to go out to eat on a particular day), the app can help you to readjust your calorie distribution throughout the week, so that you're still hitting your goals.
+
+Exposing calories has been a polarizing issue among our users, but we are betting that it will be better for the vast majority in the long-run. Unfortunately, when you increase flexibility, the tradeoff is often that you do so at the expense of simplicity. We will continue to work on balancing these often-competing interests and make the app as flexible _and_ simple as possible, but even something like creating a different mode in the app that hides calories would be difficult at this stage and is not presently on our roadmap.
+
+And if you're willing to give the beta a shot, you may get a sense for why it can often actually be simpler in a lot of contexts to see a single calorie number represent levels of nutrients, rather than seeing three macros numbers.
+
+We hope this doesn't adversely affect your experience, and we're always open to [your feedback](/docs/diet-coach-app/1.22-beta/getting-started/#how-to-provide-feedback)!
+
 # Why didn't the app program as many meals as I requested?
 
 For example, you may have asked the app to program 6 meals for you, but it only programmed 5.
@@ -73,11 +87,11 @@ Let's say you're on a cut, your [target average daily calories](/docs/diet-coach
 
 First things first--
 
-Don't let this cause you to spin out. Sure, feel guilty about it, if that's helpful and motivating for you, but don't dwell or ruminate on it. Don't beat yourself up.
+Don’t let this cause you to spin out. It’s normal to feel a bit guilty when you go off track--that just means you care about your goals. But guilt should work for you, not against you. Use it as a reminder to get back on track, not as a reason to dwell on it or beat yourself up.
 
 It is _absolutely_ okay to just write the day off and continue on as planned, without making any adjustments. Indeed, that is the baseline RP recommendation.
 
-However, if this is going to subtly nag at you and lead you to try to get back on track by swagging it (and perhaps unhealthily starving yourself by overcompensating) or even by trying to pull out pencil and paper and do your own calculations, the app has tools to help you to readjust safely.
+However, if this is going to subtly nag at you and lead you to try to get back on track by eyeballing and guessing based on your gut (and perhaps unhealthily starving yourself by overcompensating) or even by trying to pull out pencil and paper and do your own calculations, the app has tools to help you to readjust safely.
 
 After you're done [checking in](/docs/diet-coach-app/1.22-beta/features/checking-in/) your meals on the "problematic" day...
 1. Go to "Edit schedule" from the "..." (horizontal kabob) overflow menu on the "Schedule" tab.
@@ -98,11 +112,11 @@ You'll notice that when you make those changes, you're prompted to accept or dec
 
 If you decline the change to your day targets when you change your activity levels, the RP recommendation may still change, but neither your day targets nor your [target average daily calories](/docs/diet-coach-app/1.22-beta/concepts/calories/#target-average-daily-calories) will automatically change.
 
-The reason that the app does not make those kinds of changes automatically in the middle of a week and doesn't even encourage you to make them on your own is that _for many people, it's psychologically unhealthy to introduce that amount of thrash_. This is equivalent to looking at the scale every day and then trying to change how many calories you eat that day...like if you're on a cut, randomly gain some water weight, and then starve yourself that day because you fear you've actually gained weight. It's not good for you.
+The reason that the app does not make those kinds of changes automatically in the middle of a week and doesn't even encourage you to make them on your own is that _for many people, it's psychologically unhealthy to introduce that amount of disruptive, frequent adjustment and reactive change_. This is equivalent to looking at the scale every day and then trying to change how many calories you eat that day...like if you're on a cut, randomly gain some water weight, and then starve yourself that day because you fear you've actually gained weight. It's not good for you.
 
 While you _can_ up- and down-regulate calories on a particular day to scale with your activity levels, RP recommends that, in most cases, you just continue on with your week as programmed. Remember that [Weekly Review and Planning](/docs/diet-coach-app/1.22-beta/features/weekly-review-and-weekly-planning/) will catch your progress based on your actual eating and make updated recommendations for the following week. It's rarely critical to replan the remainder of the current week because life got a bit messy.
 
-However, if you feel a strong urgency to reprogram the rest of the week and get in line with the optimal RP recommendation, those tools are available to you. The chief reason that you would want to do this is if you know that you will be subconsciously inclined to try to correct for the changes yourself, and you'd rather get safe recommendations from the app than try to swag it. In that case, by all means, go to "Edit schedule", make any additional schedule changes you need to (eg, adding/removing/modifying workouts or step count targets), select the RP-recommended [target average daily calories](/docs/diet-coach-app/1.22-beta/concepts/calories/#target-average-daily-calories), and then run [Auto-configure](/docs/diet-coach-app/1.22-beta/features/auto-configure/) on the remaining days this week to help you to get back on track.
+However, if you feel a strong urgency to reprogram the rest of the week and get in line with the optimal RP recommendation, those tools are available to you. The chief reason that you would want to do this is if you know that you will be subconsciously inclined to try to correct for the changes yourself, and you'd rather get safe recommendations from the app than try to eyeball it or go by your gut. In that case, by all means, go to "Edit schedule", make any additional schedule changes you need to (eg, adding/removing/modifying workouts or step count targets), select the RP-recommended [target average daily calories](/docs/diet-coach-app/1.22-beta/concepts/calories/#target-average-daily-calories), and then run [Auto-configure](/docs/diet-coach-app/1.22-beta/features/auto-configure/) on the remaining days this week to help you to get back on track.
 
 # I did my Weekly Review and Planning before the end of the weekend, but then significantly deviated from my targets over the weekend, and now the app is saying I have an updated recommendation. What should I do?
 
