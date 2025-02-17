@@ -15,6 +15,17 @@ As the beta progresses, release notes for each new version will be posted here.
 {:toc}
 </details>
 
+# 1.22.7 (2025-02-17)
+* iOS build 6682
+* Android build 2965
+
+## Fixed
+{: .no_toc }
+
+* [Android] some sheets would extend into the Android Status Bar, making content unreadable and not tappable (#L3002, #ZD184827, #ZD184985)
+
+
+
 # 1.22.6 (2025-02-14)
 * iOS build 6681
 * Android build 2964
