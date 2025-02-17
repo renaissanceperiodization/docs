@@ -21,6 +21,7 @@ Following are a few known issues in the beta. We are aware of them, so it's not 
 * The calendar icon at the top of the "Schedule" tab currently doesn't do anything. This is a functionality we'll be reevaluating as part of a coming visual redesign.
 * The info button next to [Day Balance](https://docs.rpstrength.com/docs/diet-coach-app/1.22-beta/features/day-balance/) on the "Add workout" and "Edit workout" sheets shows placeholder text instead of any actual helpful text! (#ZD185477, #L2974)
 * Meals will sometimes get automatically programmed outside the [specified range](https://docs.rpstrength.com/docs/diet-coach-app/1.22-beta/concepts/sleep-and-preferred-meal-time-range/). (#ZD185485, #L3026)
+* User can schedule overlapping workouts during the diet start wizard. (#ZD185488, #L3027)
 
 
 # Resolved Issues
