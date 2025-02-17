@@ -17,6 +17,8 @@ You will notice that calorie counts are now all over the app. Our goal in exposi
 
 As before, macros are always rounded to the nearest 5 grams. However, with calories, _target_ calories at the week and day levels are rounded to the nearest 100, but when a day is completed (all its meals are checked in), the "actual" calories are rounded to the nearest 5. For purposes of calculating your average calorie consumption trends, the app also rounds to the nearest 100 (so, for instance, if you're only trending away from your targets by an average of 20 calories, it will not tell you that you're off-course).
 
+And if you're curious, please read this FAQ entry: [Why does the app show calories now? I liked it better when it just showed me macros!](/docs/diet-coach-app/1.22-beta/faqs/#why-does-the-app-show-calories-now-i-liked-it-better-when-it-just-showed-me-macros)
+
 # Week-Level Calories
 
 Assuming you generally stay within daily macro recommendations (especially protein minima), these numbers are going to be the chief drivers of your diet progress. Note that the app does not specifically deal with week-level aggregates or averages of your macros.
