@@ -69,7 +69,7 @@ Just don't sweat it. Of course, the app will work better for you when you give i
 
 # I went way off the rails and ate way more or less than the app told me to. What should I do?
 
-Let's say you're on a cut, your [target average daily calories](/docs/diet-coach-app/1.22-beta/concepts/calories/#target-average-daily-calories) is set to the RP-recommended value of 2000, and it's Wednesday evening. Let's say that it was a higher-than normal activity day, so your day target was 2200, but you were so starving that you ended up eating 3950 instead. Let's say that you otherwise ate exactly according to plan. So now, you're [trending toward](/docs/diet-coach-app/1.22-beta/concepts/calories/#trending-toward-average) a 2250 average, rather than a 2000 average, which would _slow_ your weight loss by roughly 0.5 lbs per week, perhaps even causing you to maintain or gain weight this week.
+Let's say you're on a cut, your [target average daily calories](/docs/diet-coach-app/1.22-beta/concepts/calories/#target-average-daily-calories) is set to the RP-recommended value of 2000, and it's Wednesday evening. Let's say that it was a higher-than normal activity day, so your day target was 2200, but you were so hungry that you ended up eating 3950 instead. Let's say that you otherwise ate exactly according to plan. So now, you're [trending toward](/docs/diet-coach-app/1.22-beta/concepts/calories/#trending-toward-average) a 2250 average, rather than a 2000 average, which would _slow_ your weight loss by roughly 0.5 lbs per week, perhaps even causing you to maintain or gain weight this week.
 
 First things first--
 
