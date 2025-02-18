@@ -15,6 +15,25 @@ As the beta progresses, release notes for each new version will be posted here.
 {:toc}
 </details>
 
+
+# 1.22.8 (2025-02-17)
+* iOS build 6683
+* Android build 2966
+
+## Added
+{: .no_toc }
+
+* help text to some info buttons (#ZD185477, #L2974)
+
+## Fixed
+{: .no_toc }
+
+* the selected date on the schedule sometimes wasn't focused (#ZD184646, #L3012)
+* overlapping workouts could be added during diet start wizard (#ZD185488, #L3027)
+* crash on [Copy Day](/docs/diet-coach-app/1.22-beta/features/copy-day/) when there are no valid destination days (#L3024)
+
+
+
 # 1.22.7 (2025-02-17)
 * iOS build 6682
 * Android build 2965
