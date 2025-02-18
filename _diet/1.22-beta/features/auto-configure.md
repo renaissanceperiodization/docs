@@ -62,7 +62,7 @@ The main context in which you will find this useful is when you have made multip
 
 ## Adjust times of unlocked meals
 
-This option allows the algorithm to adjust the times of unlocked meals.
+This option allows the algorithm to adjust the times of unlocked meals. _Note that this can cause unlocked meals (and any foods you've added to them) to get wiped out, potentially causing you to lose your work and require you to add foods all over again._
 
 While it can be run without also selecting [Adjust macros of unlocked meals](#adjust-macros-of-unlocked-meals), it is typically helpful in conjunction with that option, because it allows the algorithm to recommend optimal timing of your nutrients.
 
