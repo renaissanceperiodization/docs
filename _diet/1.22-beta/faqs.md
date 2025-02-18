@@ -31,7 +31,7 @@ We hope this doesn't adversely affect your experience, and we're always open to 
 
 # Why can't I say what days I want to weigh in?
 
-The new version of the diet app now recommends daily weigh-ins, and while you can configure _when_ each day you would like to weigh in (to encourage consistent conditions each time), there is no option to exclude days.
+The new version of the diet app now recommends daily [weigh-ins](/docs/diet-coach-app/1.22-beta/concepts/weight/), and while you can configure _when_ each day you would like to weigh in (to encourage consistent conditions each time), there is no option to exclude days.
 
 There are several reasons for this:
 
