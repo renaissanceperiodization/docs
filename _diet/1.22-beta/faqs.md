@@ -43,6 +43,14 @@ We realize that this might be stressful for some folks, especially if you have n
 
 If you miss a day, it's really no big deal. Indeed, it's not even a big deal if in one week, you weigh in fewer than 4 times and the app repeats its recommendation. One day or one week isn't going to completely derail your progress, and the app will always do its best to interpret your progress data in a way that allows it to give you better ongoing recommendations.
 
+# I added/removed/edited a workout, but why didn't the app rearrange my meals or change my meal macros?
+
+This is by design. In previous versions of the app, many users faced the frustration of planning out meals, then making a minor schedule change, only to have those meals wiped out. The app no longer assumes that, just because you're making a particular on-the-fly schedule change, you want it to automatically reprogram the rest of your day's schedule.
+
+So when you add, remove, or modify a workout, you're only touching that one workout, and the app won't do anything automatically. If your change is significant enough, it _will_ prompt you to accept or decline a change to your day calorie/macro targets (which, if you accept, will get applied only to your [Day Balance](/docs/diet-coach-app/1.22-beta/features/day-balance/) for you to deal with later, either manually, through Reallocate, or [Auto-Configure](/docs/diet-coach-app/1.22-beta/features/auto-configure/)). But that won't change the timing or macros of any of your already-programmed meals on that day.
+
+If you _do_ want the app to make those changes for you, use [Auto-Configure](/docs/diet-coach-app/1.22-beta/features/auto-configure/) on that day, using the option from the "..." (horizontal kabob) overflow menu from the "Schedule" tab or in "Edit schedule". Make sure you have already [locked](/docs/diet-coach-app/1.22-beta/concepts/locks-and-pins/#locks) any meals you absolutely don't want touched (already checked-in meals are implicitly locked), and make sure you set the [options](/docs/diet-coach-app/1.22-beta/features/auto-configure/#configuration-options) you want. That will give you more control over what the app previously did automatically.
+
 # Why didn't the app program as many meals as I requested?
 
 For example, you may have asked the app to program 6 meals for you, but it only programmed 5.
