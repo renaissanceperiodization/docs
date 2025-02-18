@@ -29,6 +29,20 @@ And if you're willing to give the beta a shot, you may get a sense for why it ca
 
 We hope this doesn't adversely affect your experience, and we're always open to [your feedback](/docs/diet-coach-app/1.22-beta/getting-started/#how-to-provide-feedback)!
 
+# Why can't I say what days I want to weigh in?
+
+The new version of the diet app now recommends daily weigh-ins, and while you can configure _when_ each day you would like to weigh in (to encourage consistent conditions each time), there is no option to exclude days.
+
+There are several reasons for this:
+
+Most fundamentally, because the app now better integrates your actual caloric intake, it requires a minimum of 4 weigh-ins from the week to get enough information to extrapolate how to make better recommendations. The more weigh-ins, the better, since the app's algorithm will be able to better understand how your caloric balance is affecting your progress toward your diet goal and overcome statistical noise. (If you don't provide 4 weigh-ins, the app now repeats the [target average daily calories](https://docs.rpstrength.com/docs/diet-coach-app/1.22-beta/concepts/calories/#target-average-daily-calories) recommendation from the previous week, scaled to any difference in activity levels.)
+
+Because that's more than half of the days of a week, recommending daily weigh-ins helps with adherence, by building up a habit that's part of your routine.
+
+We realize that this might be stressful for some folks, especially if you have negative psychological associations with weighing yourself or if seeing your weight daily might subtly encourage you to eat more or less than the app recommends, to try to shift the weight trend in a more favorable direction (or because you think you can get away with it!). While these can be difficult to work through at first, our hope is that, with time and experience, you can overcome some of these challenges, _especially_ when you find that weighing yourself daily ends up being associated with superior dieting results!
+
+If you miss a day, it's really no big deal. Indeed, it's not even a big deal if in one week, you weigh in fewer than 4 times and the app repeats its recommendation. One day or one week isn't going to completely derail your progress, and the app will always do its best to interpret your progress data in a way that allows it to give you better ongoing recommendations.
+
 # Why didn't the app program as many meals as I requested?
 
 For example, you may have asked the app to program 6 meals for you, but it only programmed 5.
