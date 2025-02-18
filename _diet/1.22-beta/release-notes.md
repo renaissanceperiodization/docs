@@ -32,6 +32,7 @@ As the beta progresses, release notes for each new version will be posted here.
 * certain days sometimes can’t be navigated to on the “Schedule” tab (#ZD185234, #ZD185240, #ZD185471, #L2936)
 * overlapping workouts could be added during diet start wizard (#ZD185488, #L3027)
 * crash on [Copy Day](/docs/diet-coach-app/1.22-beta/features/copy-day/) when there are no valid destination days (#L3024)
+* macro pills in meals were sometimes truncated (#ZD185514, #L3028)
 
 
 
