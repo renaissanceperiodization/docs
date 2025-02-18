@@ -4,7 +4,7 @@ remote_theme: just-the-docs/just-the-docs
 
 url: https://docs.rpstrength.com
 logo: "/assets/images/logo-docs-big@2x.png" # site logo for Just the Docs
-image: "https://rpstrength.com/cdn/shop/files/RP_social-sharing_3.jpg?v=1729533710"
+image: "/assets/images/RP_rdocs_social-sharing.jpg"
 
 twitter:
   username: "RPStrength"
@@ -62,7 +62,7 @@ defaults:
     scope:
       path: ""
     values:
-      image: "https://rpstrength.com/cdn/shop/files/RP_social-sharing_3.jpg?v=1729533710"
+      image: "/assets/images/RP_rdocs_social-sharing.jpg"
   -
     scope:
       path: "docs/**/index.md"
