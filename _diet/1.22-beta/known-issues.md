@@ -16,8 +16,13 @@ Following are a few known issues in the beta. We are aware of them, so it's not 
 * In some cases, upgrading from 1.21 to 1.22.x on iOS does not request access to steps from Apple Health. (#L2918)
 * There is currently no mechanism to holistically copy over all meals' foods from the week being reviewed to the week being planned. This is a functionality we will be reintroducing in the future. In the meantime, after completing [Weekly Review and Planning](/docs/diet-coach-app/1.22-beta/features/weekly-review-and-weekly-planning/), you can either [copy individual meals' foods](/docs/diet-coach-app/1.22-beta/features/copy-foods/) over into meals in your upcoming week, or you can holistically copy entire days using "Edit schedule" (from the "..." overflow menu on the "Schedule" tab). [Just make sure to check the configuration options for the copy operation to make sure you're copying only exactly what you want (eg, not necessarily copy the source day's target macros).](/docs/diet-coach-app/1.22-beta/features/copy-day/#copy-foods-in-meals:~:text=If%20you%20want%20to%20copy%20over%20meals%20from%20a%20previous%20week%20to%20the%20current%20week%20while%20preserving%20the%20RP%20algorithm%E2%80%99s%20calorie%20and%20macro%20recommendations)
 * "Schedule Template" on the "Me" tab may occasionally become unresponsive and do nothing. Current workaround is to force quit the app and restart it. (#ZD185211)
-* The calendar icon at the top of the "Schedule" tab currently doesn't do anything. This is a functionality we'll be reevaluating as part of a coming visual redesign.
-* Sometimes the trailing zero of a number in a macro pill or numeric input field will be truncated. (#ZD185514, #ZD185684, #L3028)
+* The calendar icon at the top of the "Schedule" tab currently doesn't do anything. This is a functionality we'll be reevaluating as part of a coming visual redesign. (#ZD185445, #ZD185470, #ZD185723)
+* Sometimes the trailing zero of a number in a macro pill or numeric input field will be truncated. (#ZD185514, #ZD185684, #ZD185814, #ZD185722, #L3028)
+* On Android, sometimes the step count target card on the "Schedule" tab doesn't show the step count target. (#ZD185749, #ZD185640, #L3035)
+* Sometimes [Copy Day](/docs/diet-coach-app/1.22-beta/features/copy-day/) focuses the previous week instead of the current week in the day carousel. (#ZD185752, #L3036)
+* Sometimes can't add "other foods" to a meal. (#ZD185509, #ZD185684, #ZD185308, #L3029)
+* Sometimes can't delete a food from a meal. (#ZD185672, #L3037)
+* Sometimes the camera won't open automatically for UPC scanning on Android. (#ZD185308, #L3040)
 
 
 # Resolved Issues
