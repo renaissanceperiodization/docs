@@ -16,6 +16,15 @@ As the beta progresses, release notes for each new version will be posted here.
 </details>
 
 
+# 1.22.9 (2025-02-18)
+* iOS build 6684
+* Android build 2967
+
+## Fixed
+{: .no_toc }
+* [Auto-Configure](/docs/diet-coach-app/1.22-beta/features/auto-configure/) would sometimes duplicate checked-in meals (#ZD185593, #L3030)
+
+
 # 1.22.8 (2025-02-17)
 * iOS build 6683
 * Android build 2966
