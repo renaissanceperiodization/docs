@@ -18,7 +18,7 @@ Following are a few known issues in the beta. We are aware of them, so it's not 
 * "Schedule Template" on the "Me" tab may occasionally become unresponsive and do nothing. Current workaround is to force quit the app and restart it. (#ZD185211)
 * The calendar icon at the top of the "Schedule" tab currently doesn't do anything. This is a functionality we'll be reevaluating as part of a coming visual redesign. (#ZD185445, #ZD185470, #ZD185723)
 * Sometimes can't delete a food from a meal. (#ZD185672, #L3037)
-* Sometimes the camera won't open automatically for UPC scanning on Android. (#ZD185308, #ZD185928, #L3040)
+* Sometimes the camera won't open automatically for UPC scanning on Android. (#ZD185308, #ZD185928, #ZD185914, #L3040)
 
 
 # Resolved Issues
