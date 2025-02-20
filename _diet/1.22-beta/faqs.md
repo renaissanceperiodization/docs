@@ -43,22 +43,24 @@ We realize that this might be stressful for some folks, especially if you have n
 
 If you miss a day, it's really no big deal. Indeed, it's not even a big deal if in one week, you weigh in fewer than 4 times and the app repeats its recommendation. One day or one week isn't going to completely derail your progress, and the app will always do its best to interpret your progress data in a way that allows it to give you better ongoing recommendations.
 
-# I changed my preferred start/end meal times, so why are my meal times still the same?
+<a id="i-changed-my-preferred-startend-meal-times-so-why-are-my-meal-times-still-the-same"></a>
 
-A key point to remember is that changing your [preferred start/end meal times](/docs/diet-coach-app/1.22-beta/concepts/sleep-and-preferred-meal-time-range/) is telling the app when _it_ should automatically program your meals. If you have already-programmed meals on your schedule, changing this preference does _not_ automatically change the times of any meals; it only applies to future (re)programming.
+# I changed my preferred number of meals or start/end times, so why do I still have the same number of meals and the times are still the same?
+
+A key point to remember is that changing your preferred meal number and [start/end meal times](/docs/diet-coach-app/1.22-beta/concepts/sleep-and-preferred-meal-time-range/) is telling the app when _it_ should automatically program your meals. If you have already-programmed meals on your schedule, changing this preference does _not_ automatically change the number or times of any meals; it only applies to future (re)programming.
 
 This is consistent with a general principle throughout the new version of the app, which is that, while there are many tools to align your schedule with optimal RP recommendations, the app will never override anything that's already programmed without your explicit action.
 
 (A major pain point for many users in the previous, non-beta version of the app was that any time there was any slight change to the schedule, the app would completely reprogram the whole day from scratch, potentially wiping out a significant amount of meal planning and work that the user had already done.)
 
-There are two places where you might change the preferred start/end meal times:
+There are two places where you might change the preferred meal number or start/end times:
 
 1. in the current week's schedule
   * "Schedule" tab → "..." overflow menu → "Edit schedule" → "..." overflow menu for the day → "Set first/last meal times"
   * tapping on the meal number and window [debugging infomation card](/docs/diet-coach-app/1.22-beta/getting-started/#debugging-information:~:text=On%20the%20%E2%80%9CSchedule%E2%80%9D%20tab%2C%20under%20the%20%E2%80%9CStep%20Count%20Target%E2%80%9D%20card%2C%20there%E2%80%99s%20a%20card%20that%20indicates%20a%20number%20of%20meals%20and%20a%20time%20range.) on the "Schedule" tab or in the "Edit schedule" mode
 2. in the [schedule template](/docs/diet-coach-app/1.22-beta/concepts/schedule/)
 
-Again, _changes to the preference in the current week's schedule will not automatically change the times of any meals that are already on your schedule_. So if you already had a meal on your schedule at 08:00, and you changed your start time to 09:00, that 08:00 meal will stay there. You can, of course, just manually change the time of that and any other meal to meet your needs for the day, but the point of changing the start/end meal time preference would be to later run [Auto-Configure](/docs/diet-coach-app/1.22-beta/features/auto-configure/) to reprogram your schedule. Just be careful to first [lock](/docs/diet-coach-app/1.22-beta/concepts/locks-and-pins/#locks) any meals you don't want Auto-Configure to potentially wipe out, and make sure you set the right [configuration options](/docs/diet-coach-app/1.22-beta/features/auto-configure/#configuration-options).
+Again, _changes to the preference in the current week's schedule will not automatically change the times or number of any meals that are already on your schedule_. So if you already had a meal on your schedule at 08:00, and you changed your start time to 09:00, that 08:00 meal will stay there. You can, of course, just manually change the time of that and any other meal to meet your needs for the day or add or remove meals directly, but the point of changing the start/end meal time preference would be to later run [Auto-Configure](/docs/diet-coach-app/1.22-beta/features/auto-configure/) to reprogram your schedule. Just be careful to first [lock](/docs/diet-coach-app/1.22-beta/concepts/locks-and-pins/#locks) any meals you don't want Auto-Configure to potentially wipe out, and make sure you set the right [configuration options](/docs/diet-coach-app/1.22-beta/features/auto-configure/#configuration-options).
 
 By contrast, changes to your [schedule template](/docs/diet-coach-app/1.22-beta/concepts/schedule/) will only be used during the next [Weekly Planning](/docs/diet-coach-app/1.22-beta/features/weekly-review-and-weekly-planning/), and they will persist for all subsequent Weekly Plannings. Those changes will _not_ be applied to the current week, even if you run [Auto-Configure](/docs/diet-coach-app/1.22-beta/features/auto-configure/), because the preference lives in your updated template that was not used as a blueprint for the current week's preferences.
 
