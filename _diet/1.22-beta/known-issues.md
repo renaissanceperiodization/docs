@@ -20,6 +20,7 @@ Following are a few known issues in the beta. We are aware of them, so it's not 
 * Sometimes can't delete a food from a meal. (#ZD185672, #L3037)
 * Sometimes the camera won't open automatically for UPC scanning on Android. (#ZD185308, #ZD185928, #ZD185914, #L3040)
 * When typing fast on Android, the app would sometimes fail to register keystrokes. (#ZD185901, #L3042)
+* Sometimes the trailing zero of a number in a macro pill or numeric input field is truncated. (#ZD185514, #ZD185684, #ZD185814, #ZD185722, #L3028)
 
 
 # Resolved Issues
@@ -32,6 +33,5 @@ Following are a few known issues in the beta. We are aware of them, so it's not 
 * Fixed in [1.22.8](/docs/diet-coach-app/1.22-beta/release-notes/#1228-2025-02-17): Some sheets extend into the Android Status Bar on some devices, making content unreadable and not tappable. (#ZD185476, #L3002)
 * Fixed in [1.22.8](/docs/diet-coach-app/1.22-beta/release-notes/#1228-2025-02-17): Certain days sometimes can't be navigated to on the "Schedule" tab. Current workaround is to force quit the app and restart it. Or, if possible, swipe the day carousel to another week, select the same day of the week for the day that's not navigable to, then swipe back, and the day should be selected. (#ZD185234, #ZD185240, #ZD185471, #L2936)
 * Fixed in [1.22.10](/docs/diet-coach-app/1.22-beta/release-notes/#12210-2025-02-19): Sometimes can't add "other foods" to a meal. (#ZD185509, #ZD185684, #ZD185308, #L3029)
-* Fixed in [1.22.10](/docs/diet-coach-app/1.22-beta/release-notes/#12210-2025-02-19): Sometimes the trailing zero of a number in a macro pill or numeric input field is truncated. (#ZD185514, #ZD185684, #ZD185814, #ZD185722, #L3028)
 * Fixed in [1.22.10](/docs/diet-coach-app/1.22-beta/release-notes/#12210-2025-02-19): Sometimes [Copy Day](/docs/diet-coach-app/1.22-beta/features/copy-day/) focuses the previous week instead of the current week in the day carousel. (#ZD185752, #L3036)
 * Fixed in [1.22.10](/docs/diet-coach-app/1.22-beta/release-notes/#12210-2025-02-19): On Android, sometimes the step count target card on the "Schedule" tab doesn't show the step count target. (#ZD185749, #ZD185640, #L3035)
