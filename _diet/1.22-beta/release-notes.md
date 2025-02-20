@@ -15,6 +15,22 @@ As the beta progresses, release notes for each new version will be posted here.
 {:toc}
 </details>
 
+# 1.22.10 (2025-02-19)
+* iOS build 6685
+* Android build 2968
+
+## Changed
+{: .no_toc }
+* disabled font scaling
+
+## Fixed
+{: .no_toc }
+* sometimes [Copy Day](/docs/diet-coach-app/1.22-beta/features/copy-day/) focuses the previous week instead of the current week in the day carousel (#ZD185752, #L3036)
+* [Android] app would sometimes become unresponsive after using back button/gesture (#ZD185585)
+* [Android] sometimes "Other Foods" couldn't be added to a meal (#ZD185509, #ZD185684, #ZD185308, #L3029)
+* [Android] sometimes the trailing zero of a number in a macro pill or numeric input field is truncated (#ZD185514, #ZD185684, #ZD185814, #ZD185722, #L3028)
+* [Android] sometimes the step count target card on the "Schedule" tab doesn't show the step count target (#ZD185749, #ZD185640, #L3035)
+
 
 # 1.22.9 (2025-02-18)
 * iOS build 6684
