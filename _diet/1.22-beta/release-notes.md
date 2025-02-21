@@ -24,7 +24,6 @@ As the beta progresses, release notes for each new version will be posted here.
 
 * sometimes the trailing zero of a number in a macro pill or numeric input field is truncated (#ZD185514, #ZD185684, #ZD185814, #ZD185722, #L3028)
 * sometimes the food quantity slider wouldn't update after typing in the value (#ZD186009)
-* sometimes characters disappear when typing in the food quantity
 * [Android] sometimes the camera won't open automatically for UPC scanning (#ZD185308, #ZD185928, #ZD185914, #L3040)
 
 # 1.22.10 (2025-02-19)
