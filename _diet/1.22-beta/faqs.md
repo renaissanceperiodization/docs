@@ -108,7 +108,9 @@ If you actually didn't eat the prescribed meal, delete it in the app. We recomme
 
 If, by contrast, you're actually just going to eat the meal at another time during the day (whether you already ate it earlier or plan to eat it later), feel free to just change its time and then [check it in](/docs/diet-coach-app/1.22-beta/features/checking-in/) accordingly.
 
-# I forgot to log a meal and can't remember what I ate. What should I do?
+<a id="#i-forgot-to-log-a-meal-and-cant-remember-what-i-ate-what-should-i-do"></a>
+
+# I ate a cheat meal or I forgot to log a meal, and I can't remember what or how much I ate. What should I do?
 
 Don't panic! But also don't just delete the meal! The same principle applies if you didn't record what you ate for a whole day or even for a few days.
 
