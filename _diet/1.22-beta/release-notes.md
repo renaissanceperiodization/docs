@@ -15,6 +15,18 @@ As the beta progresses, release notes for each new version will be posted here.
 {:toc}
 </details>
 
+# 1.22.12 (2025-02-22)
+* iOS build 6689
+* Android build 2971
+
+## Fixed
+{: .no_toc }
+
+* sometimes the camera won't be detected or open automatically for UPC scanning (#ZD185308, #ZD185928, #ZD185914, #ZD186112, #ZD186149, #L3040)
+* diet share image incorrectly shows meal adherence stats and has misaligned graph elements (#ZD186050, #L3053)
+* sometimes the food quantity slider would stutter (#ZD185585, #L3054)
+
+
 # 1.22.11 (2025-02-20)
 * iOS build 6688
 * Android build 2970
