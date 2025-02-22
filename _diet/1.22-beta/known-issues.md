@@ -20,9 +20,9 @@ Following are a few known issues in the beta. We are aware of them, so it's not 
 * Sometimes can't delete a food from a meal. (#ZD185672, #L3037)
 * When typing fast on Android, the app would sometimes fail to register keystrokes. (#ZD185901, #ZD186122, #ZD186092, #L3042)
 * Diet end share image incorrectly shows meal adherence stats and has misaligned graph elements. (#ZD186050, #L3053)
-* Sometimes tapping into a numeric field wouldn't automatically highlight the whole value (#ZD185720, #ZD186097, #L3056)
-* Sometimes the camera won't be detected or open automatically for UPC scanning (#ZD185308, #ZD185928, #ZD185914, #ZD186112, #L3040)
-* Sometimes schedule changes result in foods being duplicated across meals (#ZD185772, #ZD186138, #L3058)
+* Sometimes tapping into a numeric field wouldn't automatically highlight the whole value. (#ZD185720, #ZD186097, #L3056)
+* Sometimes the camera won't be detected or open automatically for UPC scanning. (#ZD185308, #ZD185928, #ZD185914, #ZD186112, #L3040)
+* Sometimes schedule changes result in foods being duplicated across meals. (#ZD185772, #ZD186138, #L3058)
 
 # Resolved Issues
 
