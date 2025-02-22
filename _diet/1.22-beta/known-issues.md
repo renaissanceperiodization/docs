@@ -18,7 +18,7 @@ Following are a few known issues in the beta. We are aware of them, so it's not 
 * "Schedule Template" on the "Me" tab may occasionally become unresponsive and do nothing. Current workaround is to force quit the app and restart it. (#ZD185211)
 * The calendar icon at the top of the "Schedule" tab currently doesn't do anything. This is a functionality we'll be reevaluating as part of a coming visual redesign. (#ZD185445, #ZD185470, #ZD185723)
 * Sometimes can't delete a food from a meal. (#ZD185672, #L3037)
-* When typing fast on Android, the app would sometimes fail to register keystrokes. (#ZD185901, #ZD186122, #ZD186092, #L3042)
+* When typing fast on Android, the app would sometimes fail to register keystrokes. (#ZD185901, #ZD186122, #ZD186092, #ZD186173, #L3042)
 * Sometimes tapping into a numeric field wouldn't automatically highlight the whole value. (#ZD185720, #ZD186097, #L3056)
 * Sometimes schedule changes result in foods being duplicated across meals. (#ZD185772, #ZD186138, #L3058)
 
