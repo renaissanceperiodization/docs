@@ -22,6 +22,7 @@ Following are a few known issues in the beta. We are aware of them, so it's not 
 * Sometimes tapping into a numeric field wouldn't automatically highlight the whole value. (#ZD185720, #ZD186097, #L3056)
 * Sometimes schedule changes result in foods being duplicated across meals. (#ZD185772, #ZD186138, #ZD186228, #L3058)
 * Sometimes the trailing digit of a number in a macro pill or numeric input field is truncated. (#ZD185514, #ZD185731, #ZD185814, #ZD185722, #L3028)
+* Can't exit out of the Custom Foods sheet when entering it from the "Me" tab. (#ZD186221, #ZD186247, #ZD186111, #L3066)
 
 # Resolved Issues
 
