@@ -18,8 +18,11 @@ Following are a few known issues in the beta. We are aware of them, so it's not 
 * "Schedule Template" on the "Me" tab may occasionally become unresponsive and do nothing. Current workaround is to force quit the app and restart it. (#ZD185211)
 * The calendar icon at the top of the "Schedule" tab currently doesn't do anything. This is a functionality we'll be reevaluating as part of a coming visual redesign. (#ZD185445, #ZD185470, #ZD185723)
 * Sometimes can't delete a food from a meal. (#ZD185672, #L3037)
-* When typing fast on Android, the app would sometimes fail to register keystrokes. (#ZD185901, #ZD186122, #L3042)
+* When typing fast on Android, the app would sometimes fail to register keystrokes. (#ZD185901, #ZD186122, #ZD186092, #L3042)
 * Diet end share image incorrectly shows meal adherence stats and has misaligned graph elements. (#ZD186050, #L3053)
+* Sometimes tapping into a numeric field wouldn't automatically highlight the whole value (#ZD185720, #ZD186097, #L3056)
+* Sometimes the camera won't be detected or open automatically for UPC scanning (#ZD185308, #ZD185928, #ZD185914, #ZD186112, #L3040)
+* Sometimes schedule changes result in foods being duplicated across meals (#ZD185772, #ZD186138, #L3058)
 
 # Resolved Issues
 
@@ -33,5 +36,4 @@ Following are a few known issues in the beta. We are aware of them, so it's not 
 * Fixed in [1.22.10](/docs/diet-coach-app/1.22-beta/release-notes/#12210-2025-02-19): Sometimes can't add "other foods" to a meal. (#ZD185509, #ZD185684, #ZD185308, #L3029)
 * Fixed in [1.22.10](/docs/diet-coach-app/1.22-beta/release-notes/#12210-2025-02-19): Sometimes [Copy Day](/docs/diet-coach-app/1.22-beta/features/copy-day/) focuses the previous week instead of the current week in the day carousel. (#ZD185752, #L3036)
 * Fixed in [1.22.10](/docs/diet-coach-app/1.22-beta/release-notes/#12210-2025-02-19): On Android, sometimes the step count target card on the "Schedule" tab doesn't show the step count target. (#ZD185749, #ZD185640, #L3035)
-* Fixed in [1.22.11](/docs/diet-coach-app/1.22-beta/release-notes/#12211-2025-02-20): Sometimes the camera won't open automatically for UPC scanning on Android. (#ZD185308, #ZD185928, #ZD185914, #L3040)
 * Fixed in [1.22.11](/docs/diet-coach-app/1.22-beta/release-notes/#12211-2025-02-20): Sometimes the trailing digit of a number in a macro pill or numeric input field is truncated. (#ZD185514, #ZD185684, #ZD185814, #ZD185722, #L3028)
