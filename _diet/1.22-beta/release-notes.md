@@ -15,6 +15,26 @@ As the beta progresses, release notes for each new version will be posted here.
 {:toc}
 </details>
 
+
+# 1.22.13 (2025-02-22)
+* iOS build 6692
+* Android build 2973
+
+## Added
+{: .no_toc }
+* better instructions and links on "Contact Us" screen (#GH1215)
+
+## Fixed
+{: .no_toc }
+* sometimes schedule changes result in foods being duplicated across meals (#ZD185772, #ZD186138, #ZD186228, #L3058)
+* some screen flickering when opening food lists / search results
+* missing "Cancel" button when Custom Foods accessed from "Me" tab (#ZD186221, #ZD186247, #ZD186111, #L3066)
+
+## Removed
+{: .no_toc }
+* "Redo weekly review" button on "Me" tab (#ZD186052, #L3062)
+
+
 # 1.22.12 (2025-02-22)
 * iOS build 6689
 * Android build 2971
