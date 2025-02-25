@@ -15,6 +15,19 @@ As the beta progresses, release notes for each new version will be posted here.
 {:toc}
 </details>
 
+# 1.22.14 (2025-02-24)
+* iOS build 6693
+* Android build 2974
+
+## Added
+{: .no_toc }
+* icon on "Schedule" tab that indicates day macro and calorie targets are [locked](/docs/diet-coach-app/1.22-beta/concepts/locks-and-pins/#locks)
+
+## Fixed
+{: .no_toc }
+* crash when rating the app in the App Store
+* missing diet end date during diet start flow when using kg as weight units
+
 
 # 1.22.13 (2025-02-22)
 * iOS build 6692
