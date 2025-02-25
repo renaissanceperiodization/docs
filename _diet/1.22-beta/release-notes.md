@@ -23,9 +23,12 @@ As the beta progresses, release notes for each new version will be posted here.
 {: .no_toc }
 * icon on "Schedule" tab that indicates day macro and calorie targets are [locked](/docs/diet-coach-app/1.22-beta/concepts/locks-and-pins/#locks)
 
+## Removed
+{: .no_toc }
+* prompt to rate app on Apple App Store and Google Play (because it was crashing)
+
 ## Fixed
 {: .no_toc }
-* crash when rating the app in the App Store
 * missing diet end date during diet start flow when using kg as weight units
 
 
