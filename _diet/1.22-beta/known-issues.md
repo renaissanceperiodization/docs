@@ -21,6 +21,7 @@ Following are a few known issues in the beta. We are aware of them, so it's not 
 * When typing fast on Android, the app would sometimes fail to register keystrokes. (#ZD185901, #ZD186122, #ZD186092, #ZD186173, #ZD186065, #L3042)
 * Sometimes tapping into a numeric field wouldn't automatically highlight the whole value. (#ZD185720, #ZD186097, #ZD186291, #L3056)
 * Sometimes the trailing digit of a number in a macro pill or numeric input field is truncated. (#ZD185514, #ZD185731, #ZD185814, #ZD185722, #L3028)
+* Unable to tap "Save" on weigh-in sheet when manually syncing weight from Apple Health because manual entry field is blank. (#ZD186410)
 
 # Resolved Issues
 
