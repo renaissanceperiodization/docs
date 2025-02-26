@@ -189,6 +189,14 @@ Here's what to do if you you have planned nearly all your meals already (and it 
   * [Adjust macros of unlocked meals](/docs/diet-coach-app/1.22-beta/features/auto-configure/#adjust-macros-of-unlocked-meals): Turn this OFF.<br />_This is part of what will tell the RP algorithm to preserve all the meals that you already planned._
   * [Adjust times of unlocked meals](/docs/diet-coach-app/1.22-beta/features/auto-configure/#adjust-times-of-unlocked-meals): Turn this OFF.<br />_This is part of what will tell the RP algorithm to preserve all the meals that you already planned._
 
+# Why does the app round my macros to the nearest 5 grams?
+
+This kind of rounding has been a foundational part of the RP approach since we launched the Diet Coach App, and the chief reason for it is that anything more granular than 5 grams really doesn't matter that much in terms of success with diet goals.
+
+You will find a greater effect from the "statistical noise" introduced by other irregularities in your lifestyle, like subtle differences in activity levels, how much sleep you got, the quality of your sleep, your stress levels, etc.
+
+We don't want to encourage people to obsess over getting things exactly right to the gram! While this can introduce some funny arithmetic in places, we think you'll find that the app does an excellent job of supporting practical success _because_ of this rounding, not despite it.
+
 {% comment %}
 THIS DEPENDS ON ENG-3025
 
