@@ -23,6 +23,8 @@ Following are a few known issues in the beta. We are aware of them, so it's not 
 * Sometimes the trailing digit of a number in a macro pill or numeric input field is truncated. (#ZD185514, #ZD185731, #ZD185814, #ZD185722, #L3028)
 * Unable to tap "Save" on weigh-in sheet when manually syncing weight from Apple Health because manual entry field is blank. (#ZD186410)
 * Diet difficulty messaging when configuring a new diet doesn't accurately reflect actual difficulty of goals. (#ZD186816, #L3074)
+* Some sheets extend into the Android Status Bar on some devices, making content unreadable and not tappable. (#ZD185476, #ZD186481, #L3002, #L3075)
+* Sometimes launching the Android app would freeze on the RP logo splash screen. (#ZD186481, #L3076)
 
 # Resolved Issues
 
@@ -31,7 +33,6 @@ Following are a few known issues in the beta. We are aware of them, so it's not 
 * Fixed in [1.22.6](/docs/diet-coach-app/1.22-beta/release-notes/#1226-2025-02-14): Copy Day will occasionally fail to copy into certain days.
 * Added in [1.22.8](/docs/diet-coach-app/1.22-beta/release-notes/#1228-2025-02-17): The info button next to [Day Balance](https://docs.rpstrength.com/docs/diet-coach-app/1.22-beta/features/day-balance/) on the "Add workout" and "Edit workout" sheets shows placeholder text instead of any actual helpful text! (#ZD185477, #L2974)
 * Fixed in [1.22.8](/docs/diet-coach-app/1.22-beta/release-notes/#1228-2025-02-17): User can schedule overlapping workouts during the diet start wizard. (#ZD185488, #L3027)
-* Fixed in [1.22.8](/docs/diet-coach-app/1.22-beta/release-notes/#1228-2025-02-17): Some sheets extend into the Android Status Bar on some devices, making content unreadable and not tappable. (#ZD185476, #L3002)
 * Fixed in [1.22.8](/docs/diet-coach-app/1.22-beta/release-notes/#1228-2025-02-17): Certain days sometimes can't be navigated to on the "Schedule" tab. Current workaround is to force quit the app and restart it. Or, if possible, swipe the day carousel to another week, select the same day of the week for the day that's not navigable to, then swipe back, and the day should be selected. (#ZD185234, #ZD185240, #ZD185471, #L2936)
 * Fixed in [1.22.10](/docs/diet-coach-app/1.22-beta/release-notes/#12210-2025-02-19): Sometimes can't add "other foods" to a meal. (#ZD185509, #ZD185684, #ZD185308, #L3029)
 * Fixed in [1.22.10](/docs/diet-coach-app/1.22-beta/release-notes/#12210-2025-02-19): Sometimes [Copy Day](/docs/diet-coach-app/1.22-beta/features/copy-day/) focuses the previous week instead of the current week in the day carousel. (#ZD185752, #L3036)
