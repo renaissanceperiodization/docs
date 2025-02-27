@@ -197,6 +197,19 @@ You will find a greater effect from the "statistical noise" introduced by other 
 
 We don't want to encourage people to obsess over getting things exactly right to the gram! While this can introduce some funny arithmetic in places, we think you'll find that the app does an excellent job of supporting practical success _because_ of this rounding, not despite it.
 
+# I just did my first Weekly Planning, and the app recommended target average daily calories that seem unreasonably high or low, especially when comparing the macros to those recommended by the previous (non-beta) version of the app. What should I do?
+
+When you first update to the beta version of the RP Diet Coach app, the initial [Weekly Planning](/docs/diet-coach-app/1.22-beta/features/weekly-review-and-weekly-planning/) may recommend calorie targets that feel off--either too high or too low--compared to what you were seeing in the previous (non-beta) version. This discrepancy often stems from how the beta app calculates your starting point.
+
+The new version uses the information from your initial setup and your check-in data from the previous week. However, if this is your first time using the beta, the app relies on more generalized estimates of your actual caloric intake based on the at/over/under macros ratings from your previous check-ins. This approach is less precise than what the app will achieve in subsequent weeks when it has more detailed data about your caloric intake and adherence to macros.
+
+If your recommended calories seem off, here's what you should do:
+* Manually adjust your [target average daily calories](/docs/diet-coach-app/1.22-beta/concepts/calories/#target-average-daily-calories): If you have a good sense of what works for you (eg, a calorie target that has helped you maintain, gain, or lose weight appropriately), set that as your temporary target.
+* Follow your own target for the first week: By hitting this target and [tracking](/docs/diet-coach-app/1.22-beta/features/checking-in/) consistently, you'll provide the app with more accurate data to fine-tune its recommendations.
+* Let the app learn: Over time, the app will better align its suggestions with your actual needs, leading to more accurate recommendations during [Weekly Planning](/docs/diet-coach-app/1.22-beta/features/weekly-review-and-weekly-planning/).
+
+If you continue to get recommendations that seem unreasonable, please make sure to [submit feedback](/docs/diet-coach-app/1.22-beta/getting-started/#how-to-provide-feedback)!
+
 {% comment %}
 THIS DEPENDS ON ENG-3025
 
