@@ -22,6 +22,7 @@ Following are a few known issues in the beta. We are aware of them, so it's not 
 * Sometimes tapping into a numeric field wouldn't automatically highlight the whole value. (#ZD185720, #ZD186097, #ZD186291, #L3056)
 * Sometimes the trailing digit of a number in a macro pill or numeric input field is truncated. (#ZD185514, #ZD185731, #ZD185814, #ZD185722, #L3028)
 * Unable to tap "Save" on weigh-in sheet when manually syncing weight from Apple Health because manual entry field is blank. (#ZD186410)
+* Diet difficulty messaging when configuring a new diet doesn't accurately reflect actual difficulty of goals. (#ZD186816, #L3074)
 
 # Resolved Issues
 
