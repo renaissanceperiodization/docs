@@ -26,6 +26,7 @@ Following are a few known issues in the beta. We are aware of them, so it's not 
 * Some sheets extend into the Android Status Bar on some devices, making content unreadable and not tappable. (#ZD185476, #ZD186481, #L3002, #L3075)
 * Sometimes launching the Android app would freeze on the RP logo splash screen. (#ZD186481, #L3076)
 * Changing the [start/end meal times](/docs/diet-coach-app/1.22-beta/concepts/sleep-and-preferred-meal-time-range/) for one day on the [schedule template](/docs/diet-coach-app/1.22-beta/concepts/schedule/) changes it for all days. (#ZD186766, #L3077)
+* Sometimes tapping on a meal in the Schedule will open a different meal. (#ZD185772, #L3078)
 
 # Resolved Issues
 
