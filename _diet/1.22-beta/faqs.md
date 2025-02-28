@@ -210,6 +210,20 @@ If your recommended calories seem off, here's what you should do:
 
 If you continue to get recommendations that seem unreasonable, please make sure to [submit feedback](/docs/diet-coach-app/1.22-beta/getting-started/#how-to-provide-feedback)!
 
+# I'm a night-/shift-worker or otherwise have meals in the late night or very early morning that I consider to be part of the previous day. What should I do?
+
+Imagine that you regularly eat your last meal of the day at 02:00, past midnight. So it might be a 02:00 on a Wednesday according to the calendar, but you think of that meal as being part of Tuesday.
+
+Right now, the app doesn't support crossing the midnight boundary for the (start) times of meals (and workouts). So all of Tuesday's meals, for example, have to be between 00:00 and 23:45 (11:45pm) on Tuesday.
+
+So the current way to deal with things like that 02:00 Wednesday meal that you think of as being Tuesday's last meal would be to schedule it for 23:45 (11:45pm). If this doesn't happen often or only affects a few meals (and you're flexible with meal times anyway), this might not be terribly disruptive.
+
+Another approach to consider is possibly just offsetting all your meals in the app by some number of hours to reflect reality, like pulling everything back 2.25 hours. So, for instance, if you actually eat between 11:00 Tuesday and 02:00 Wednesday, you might configure Tuesday's meals to be between 09:45 and 23:45 (11:45pm), and then just know that you need to eat them 2.25 hours later than the app prescribed. The downside to this approach is that meal reminder notifications would be 2.25 hours early, too, so you might want to turn them off.
+
+Yes, this can create a bit of extra work, and we're evaluating how to address this better in future versions.
+
+But keep in mind that, as long as you're generally spreading out your meals (especially protein intake) throughout your waking hours and skewing carbs to after your workouts, meal timing is only going to account for ~5% of your diet success, so don't sweat the exact times of meals in the app too much.
+
 {% comment %}
 THIS DEPENDS ON ENG-3025
 
