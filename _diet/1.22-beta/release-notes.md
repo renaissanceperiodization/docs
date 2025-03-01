@@ -26,6 +26,7 @@ As the beta progresses, release notes for each new version will be posted here.
 * end/until time for [preferred meal time range](/docs/diet-coach-app/1.22-beta/concepts/sleep-and-preferred-meal-time-range/) was allowed to be before start/from time, resulting in empty programming (#ZD186908, #L3079)
 * changing the [start/end (from/until) meal times](/docs/diet-coach-app/1.22-beta/concepts/sleep-and-preferred-meal-time-range/) in the [schedule template](/docs/diet-coach-app/1.22-beta/concepts/schedule/) for one day would always affect all days (#ZD186766, #ZD186936, #L3077)
 * changes to diet goal in [Weekly Review](/docs/diet-coach-app/1.22-beta/features/weekly-review-and-weekly-planning/) did not always reliably save
+* sometimes tapping on a meal in the Schedule will open a different meal (#ZD185772, #L3078)
 
 
 # 1.22.14 (2025-02-24)
