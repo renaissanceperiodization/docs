@@ -21,7 +21,7 @@ As the beta progresses, release notes for each new version will be posted here.
 
 ## Fixed
 {: .no_toc }
-* crash on trying to change start/end (from/until) meal time range during new diet start wizard (#ZD186908, #L3082)
+* crash on trying to change [start/end (from/until) meal time range](/docs/diet-coach-app/1.22-beta/concepts/sleep-and-preferred-meal-time-range/) during new diet start wizard (#ZD186908, #L3082)
 
 # 1.22.15 (2025-02-28)
 * iOS build 6695
