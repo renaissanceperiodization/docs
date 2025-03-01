@@ -15,6 +15,14 @@ As the beta progresses, release notes for each new version will be posted here.
 {:toc}
 </details>
 
+# 1.22.16 (2025-02-28)
+* iOS build 6696
+* Android build 2977
+
+## Fixed
+{: .no_toc }
+* crash on trying to change start/end (from/until) meal time range during new diet start wizard (#ZD186908, #L3082)
+
 # 1.22.15 (2025-02-28)
 * iOS build 6695
 * Android build 2976
