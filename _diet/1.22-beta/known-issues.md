@@ -25,8 +25,6 @@ Following are a few known issues in the beta. We are aware of them, so it's not 
 * Diet difficulty messaging when configuring a new diet doesn't accurately reflect actual difficulty of goals. (#ZD186816, #L3074)
 * Some sheets extend into the Android Status Bar on some devices, making content unreadable and not tappable. (#ZD185476, #ZD186481, #L3002, #L3075)
 * Sometimes launching the Android app would freeze on the RP logo splash screen. (#ZD186481, #ZD186936, #L3076)
-* Changing the [start/end meal times](/docs/diet-coach-app/1.22-beta/concepts/sleep-and-preferred-meal-time-range/) for one day on the [schedule template](/docs/diet-coach-app/1.22-beta/concepts/schedule/) changes it for all days. (#ZD186766, #ZD186936, #L3077)
-* Sometimes tapping on a meal in the Schedule will open a different meal. (#ZD185772, #L3078)
 
 # Resolved Issues
 
@@ -43,3 +41,5 @@ Following are a few known issues in the beta. We are aware of them, so it's not 
 * Fixed in [1.22.12](/docs/diet-coach-app/1.22-beta/release-notes/#12212-2025-02-22): Sometimes the camera won't be detected or open automatically for UPC scanning. (#ZD185308, #ZD185928, #ZD185914, #ZD186112, #ZD186149, #ZD186235, #ZD186246, #ZD186269, #ZD185772, #ZD186301, #L3040)
 * Fixed in [1.22.13](/docs/diet-coach-app/1.22-beta/release-notes/#12213-2025-02-22): Sometimes schedule changes result in foods being duplicated across meals. (#ZD185772, #ZD186138, #ZD186228, #L3058)
 * Fixed in [1.22.13](/docs/diet-coach-app/1.22-beta/release-notes/#12213-2025-02-22): Can't exit out of the Custom Foods sheet when entering it from the "Me" tab. (#ZD186221, #ZD186247, #ZD186111, #L3066)
+* Fixed in [1.22.15](/docs/diet-coach-app/1.22-beta/release-notes/#12215-2025-02-28): Changing the [start/end meal times](/docs/diet-coach-app/1.22-beta/concepts/sleep-and-preferred-meal-time-range/) for one day on the [schedule template](/docs/diet-coach-app/1.22-beta/concepts/schedule/) changes it for all days. (#ZD186766, #ZD186936, #L3077)
+* Fixed in [1.22.15](/docs/diet-coach-app/1.22-beta/release-notes/#12215-2025-02-28): Sometimes tapping on a meal in the Schedule will open a different meal. (#ZD185772, #L3078)
