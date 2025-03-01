@@ -15,6 +15,19 @@ As the beta progresses, release notes for each new version will be posted here.
 {:toc}
 </details>
 
+# 1.22.15 (2025-02-28)
+* iOS build 6695
+* Android build 2976
+
+## Fixed
+{: .no_toc }
+* [Weekly Planning](/docs/diet-coach-app/1.22-beta/features/weekly-review-and-weekly-planning/) calorie-recommendation algorithm didn't factor in enough days when computing recent average caloric intake (#ZD186965)
+* initial calorie recommendation for new diets used sometimes unreliable data from diet history in its "metabolic learning" (#ZD186489, #L3081)
+* end/until time for [preferred meal time range](/docs/diet-coach-app/1.22-beta/concepts/sleep-and-preferred-meal-time-range/) was allowed to be before start/from time, resulting in empty programming (#ZD186908, #L3079)
+* changing the [start/end (from/until) meal times](/docs/diet-coach-app/1.22-beta/concepts/sleep-and-preferred-meal-time-range/) in the [schedule template](/docs/diet-coach-app/1.22-beta/concepts/schedule/) for one day would always affect all days (#ZD186766, #ZD186936, #L3077)
+* changes to diet goal in [Weekly Review](/docs/diet-coach-app/1.22-beta/features/weekly-review-and-weekly-planning/) did not always reliably save
+
+
 # 1.22.14 (2025-02-24)
 * iOS build 6693
 * Android build 2974
