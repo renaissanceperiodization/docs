@@ -15,6 +15,15 @@ As the beta progresses, release notes for each new version will be posted here.
 {:toc}
 </details>
 
+# 1.22.17 (2025-03-04)
+* iOS build 6697
+* Android build 2978
+
+## Fixed
+{: .no_toc }
+* sometimes "Rebalance" would need to be tapped twice in a meal before the sliders and food quantities would update (#ZD187007, #L3084)
+
+
 # 1.22.16 (2025-02-28)
 * iOS build 6696
 * Android build 2977
