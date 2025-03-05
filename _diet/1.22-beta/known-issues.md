@@ -26,7 +26,7 @@ Following are a few known issues in the beta. We are aware of them, so it's not 
 * Some sheets extend into the Android Status Bar on some devices, making content unreadable and not tappable. (#ZD185476, #ZD186481, #L3002, #L3075)
 * Sometimes launching the Android app would freeze on the RP logo splash screen. (#ZD186481, #ZD186936, #L3076)
 * Numeric notification badges on iOS app icon not clearly correlated with in-app actions. (#ZD185277, #ZD186228, #ZD185772, #L3085)
-* In [1.22.17](/docs/diet-coach-app/1.22-beta/release-notes/#1227-2025-02-17), foods cannot be deleted from meals. As a temporary workaround, set quantities to 0 for foods you would have deleted. (#ZD187481, #L3087)
+* In [1.22.17](/docs/diet-coach-app/1.22-beta/release-notes/#1227-2025-02-17), foods cannot be deleted from meals. As a temporary workaround, set quantities to 0 for foods you would have deleted. (#ZD187481, #ZD187548, #L3087)
 * Keyboard sometimes covers text input fields. (#ZD185772, #ZD187521, #L3088)
 
 # Resolved Issues
