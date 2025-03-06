@@ -16,7 +16,7 @@ Following are a few known issues in the beta. We are aware of them, so it's not 
 * In some cases, upgrading from 1.21 to 1.22.x on iOS does not request access to steps from Apple Health. (#L2918)
 * There is currently no mechanism to holistically copy over all meals' foods from the week being reviewed to the week being planned. This is a functionality we will be reintroducing in the future. In the meantime, after completing [Weekly Review and Planning](/docs/diet-coach-app/1.22-beta/features/weekly-review-and-weekly-planning/), you can either [copy individual meals' foods](/docs/diet-coach-app/1.22-beta/features/copy-foods/) over into meals in your upcoming week, or you can holistically copy entire days using "Edit schedule" (from the "..." overflow menu on the "Schedule" tab). [Just make sure to check the configuration options for the copy operation to make sure you're copying only exactly what you want (eg, not necessarily copy the source day's target macros).](/docs/diet-coach-app/1.22-beta/features/copy-day/#copy-foods-in-meals:~:text=If%20you%20want%20to%20copy%20over%20meals%20from%20a%20previous%20week%20to%20the%20current%20week%20while%20preserving%20the%20RP%20algorithm%E2%80%99s%20calorie%20and%20macro%20recommendations)
 * "Schedule Template" on the "Me" tab may occasionally become unresponsive and do nothing. Current workaround is to force quit the app and restart it. (#ZD185211)
-* The calendar icon at the top of the "Schedule" tab currently doesn't do anything. This is a functionality we'll be reevaluating as part of a coming visual redesign. (#ZD185445, #ZD185470, #ZD185723)
+* The calendar icon at the top of the "Schedule" tab currently doesn't do anything. This is a functionality we'll be reevaluating as part of a coming visual redesign. (#ZD185445, #ZD185470, #ZD185723, #L3092)
 * Sometimes can't delete a food from a meal. (#ZD185672, #L3037)
 * When typing fast on Android, the app would sometimes fail to register keystrokes. (#ZD185901, #ZD186122, #ZD186092, #ZD186173, #ZD186065, #L3042)
 * Sometimes tapping into a numeric field wouldn't automatically highlight the whole value. (#ZD185720, #ZD186097, #ZD186291, #L3056)
@@ -26,7 +26,7 @@ Following are a few known issues in the beta. We are aware of them, so it's not 
 * Some sheets extend into the Android Status Bar on some devices, making content unreadable and not tappable. (#ZD185476, #ZD186481, #L3002, #L3075)
 * Sometimes launching the Android app would freeze on the RP logo splash screen. (#ZD186481, #ZD186936, #L3076)
 * Numeric notification badges on iOS app icon not clearly correlated with in-app actions. (#ZD185277, #ZD186228, #ZD185772, #L3085)
-* In [1.22.17](/docs/diet-coach-app/1.22-beta/release-notes/#1227-2025-02-17), foods cannot be deleted from meals. As a temporary workaround, set quantities to 0 for foods you would have deleted. (#ZD187481, #ZD187548, #L3087)
+* In [1.22.17](/docs/diet-coach-app/1.22-beta/release-notes/#1227-2025-02-17), foods cannot be deleted from meals. As a temporary workaround, set quantities to 0 for foods you would have deleted. (#ZD187481, #ZD187548, #ZD187616, #L3087)
 * Keyboard sometimes covers text input fields. (#ZD185772, #ZD187521, #L3088)
 
 # Resolved Issues
