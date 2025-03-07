@@ -21,23 +21,23 @@ As the beta progresses, release notes for each new version will be posted here.
 
 ## Added
 {: .no_toc }
-* new settings to toggle debugging information display for
+* new settings to toggle debugging information display for<br />(#L3093)
   * [preferred meal count and start/end (from/until) time](/docs/diet-coach-app/1.22-beta/concepts/sleep-and-preferred-meal-time-range/)
   * [target average daily calories](/docs/diet-coach-app/1.22-beta/concepts/calories/#target-average-daily-calories) and [trending-toward average](/docs/diet-coach-app/1.22-beta/concepts/calories/#trending-toward-average) on "Schedule" tab
-* calorie information for meals
-* more robust information and guidance on "Coaching" tab around calorie averages and trends
+* calorie information for meals (#L3095)
+* more robust information and guidance on "Coaching" tab around calorie averages and trends (#L3005)
 
 ## Changed
 {: .no_toc }
-* days must have at least one non-shake meal; when deleting meals, the last remaining meal on a day cannot be deleted
+* days must have at least one non-shake meal; when deleting meals, the last remaining meal on a day cannot be deleted (#L3025)
 
 ## Fixed
 {: .no_toc }
-* calendar icon on "Schedule" tab brings focus to today
+* calendar icon on "Schedule" tab brings focus to today (#L3092)
 * day target numeric input fields would sometimes show "NaN" when editing
 * day target calorie/macro sliders would stay open when switching between days in [schedule template](/docs/diet-coach-app/1.22-beta/concepts/schedule/)
-* adjusting schedule of future days would sometimes clear foods from meals
-* missing remove icon (⛔) when trying to delete a food from a meal
+* adjusting schedule of future days would sometimes clear foods from meals (#ZD187380, #L3086)
+* missing remove icon (⛔) when trying to delete a food from a meal (#ZD187481, #ZD187548, #ZD187616, #L3087)
 
 
 # 1.22.17 (2025-03-04)
