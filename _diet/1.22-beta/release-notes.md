@@ -16,7 +16,7 @@ As the beta progresses, release notes for each new version will be posted here.
 </details>
 
 # 1.22.18 (2025-03-06)
-* iOS build 
+* iOS build 6699
 * Android build 2980
 
 ## Added
