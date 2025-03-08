@@ -15,6 +15,21 @@ As the beta progresses, release notes for each new version will be posted here.
 {:toc}
 </details>
 
+# 1.22.19 (2025-03-07)
+* iOS build 6702
+* Android build 2982
+
+## Removed
+{: .no_toc }
+* calorie quantities for "Apply saved combo" options (#ZD187786, #L3098)
+
+## Fixed
+{: .no_toc }
+* opening keyboard would cover certain screens (#ZD185772, #ZD187521, #L3088)
+* opening keyboard wouldn't scroll the focused text field into view
+* tapping on meal check-in notification wouldn't load the meal (#ZD187658, #L3100)
+
+
 # 1.22.18 (2025-03-06)
 * iOS build 6699
 * Android build 2980
