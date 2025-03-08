@@ -24,7 +24,7 @@ Following are a few known issues in the beta. We are aware of them, so it's not 
 * Some sheets extend into the Android Status Bar on some devices, making content unreadable and not tappable. (#ZD185476, #ZD186481, #L3002, #L3075)
 * Sometimes launching the Android app would freeze on the RP logo splash screen. (#ZD186481, #ZD186936, #L3076)
 * Numeric notification badges on iOS app icon not clearly correlated with in-app actions. (#ZD185277, #ZD186228, #ZD185772, #L3085)
-* Keyboard sometimes covers text input fields. (#ZD185772, #ZD187521, #L3088)
+
 
 # Resolved Issues
 
@@ -45,3 +45,4 @@ Following are a few known issues in the beta. We are aware of them, so it's not 
 * Fixed in [1.22.15](/docs/diet-coach-app/1.22-beta/release-notes/#12215-2025-02-28): Sometimes tapping on a meal in the Schedule will open a different meal. (#ZD185772, #L3078)
 * Fixed in [1.22.18](/docs/diet-coach-app/1.22-beta/release-notes/#12218-2025-03-06): Foods cannot be deleted from meals. (#ZD187481, #ZD187548, #ZD187616, #L3087)
 * Fixed in [1.22.18](/docs/diet-coach-app/1.22-beta/release-notes/#12218-2025-03-06): The calendar icon at the top of the "Schedule" tab currently doesn't do anything. (#ZD185445, #ZD185470, #ZD185723, #L3092)
+* Fixed in [1.22.19](/docs/diet-coach-app/1.22-beta/release-notes/#12219-2025-03-07): Keyboard sometimes covers text input fields. (#ZD185772, #ZD187521, #L3088)
