@@ -15,6 +15,37 @@ As the beta progresses, release notes for each new version will be posted here.
 {:toc}
 </details>
 
+# 1.22.20 (2025-04-23)
+* iOS build 6749
+* Android build 3000
+
+## ✨ Features & improvements
+{: .no_toc }
+* Adds Genius Shot to RP recommended proteins
+* When saving meal with food macros not equal to targets, prompts to optionally update macros
+* When making one-off schedule edits (add/edit/remove workout, edit steps), prompts to optionally update day calories and redistribute day balance
+* Places calories on the left to communicate "calories and protein" as being most important
+* Terminology updates:
+  * [Schedule] "Auto-configure" renamed to "Optimize"
+  * [Day Balance] "Reallocate" renamed to "Redistribute"
+  * "Absorb day balance" (from in-meal menu) renamed to "Pull from day balance"
+  * "Reallocate to day balance" (from in-meal menu) renamed to "Push to day balance"
+* Adds long-swipe checkin and secondary swipe actions to meals on Schedule screen
+  * "Check-in" and long-swipe checks in at food macros (if meals has foods) otherwise target macros
+  * "Manual" defaults to food macros (if meal has foods) otherwise target macros
+* Now possible to check in meals at target macros even when foods exceed targets
+* Clearly distinguishes "checked in macros" from "foods and food macros" when viewing checked-in meals
+* Updates meal check-in action sheet options to reduce user friction
+* Defaults workout shakes to off
+* Shows brand name for custom foods (if entered)
+* Updates footer tab-bar names and icons
+
+## 🐛 Bug fixes
+{: .no_toc }
+* Fixes animation flickering
+* Various bug fixes
+
+
 # 1.22.19 (2025-03-07)
 * iOS build 6702
 * Android build 2982

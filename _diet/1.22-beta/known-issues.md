@@ -9,7 +9,6 @@ Following are a few known issues in the beta. We are aware of them, so it's not 
 
 # Open Issues
 
-* The app will sometimes flicker between screen transitions.
 * Performing certain operations and transitioning between screens can sometimes be sluggish. Please be patient!
 * When adding foods to a meal, there are duplicative buttons on each of the three steps: There are buttons that scroll with the food list, and there are buttons that float on top of the food list. These buttons are for adding proteins, fats, carbs, other foods, and accessing the barcode scanner.
 * The app will sometimes show target calories rounded to the nearest 5, rather than to the nearest 100. For now, this is provided for debugging purposes.
@@ -46,3 +45,4 @@ Following are a few known issues in the beta. We are aware of them, so it's not 
 * Fixed in [1.22.18](/docs/diet-coach-app/1.22-beta/release-notes/#12218-2025-03-06): Foods cannot be deleted from meals. (#ZD187481, #ZD187548, #ZD187616, #L3087)
 * Fixed in [1.22.18](/docs/diet-coach-app/1.22-beta/release-notes/#12218-2025-03-06): The calendar icon at the top of the "Schedule" tab currently doesn't do anything. (#ZD185445, #ZD185470, #ZD185723, #L3092)
 * Fixed in [1.22.19](/docs/diet-coach-app/1.22-beta/release-notes/#12219-2025-03-07): Keyboard sometimes covers text input fields. (#ZD185772, #ZD187521, #L3088)
+* Fixed in [1.22.20](/docs/diet-coach-app/1.22-beta/release-notes/#12220-2025-04-23): The app will sometimes flicker between screen transitions.
