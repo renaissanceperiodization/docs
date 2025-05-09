@@ -15,6 +15,22 @@ As the beta progresses, release notes for each new version will be posted here.
 {:toc}
 </details>
 
+# 1.22.21 (2025-05-08)
+* iOS build 6783
+* Android build 3012
+
+## ✨ Features & Improvements
+{: .no_toc }
+* Improves weekly calorie recommendation algorithm
+* Restores the long-press menu for checked-in meals
+
+## 🐛 Bug fixes
+* Fixes bug when checking in meals at foods at weekly review results in 0g macros logged
+* Fixes bug in week 1 when calculating target calories and trending calories
+* Fixes numerous navigation animation bugs
+* Fixes various bugs where touches not being registered
+
+
 # 1.22.20 (2025-04-23)
 * iOS build 6749
 * Android build 3000
