@@ -15,6 +15,27 @@ As the beta progresses, release notes for each new version will be posted here.
 {:toc}
 </details>
 
+# 1.22.23 (2025-05-25)
+* iOS build 6816
+* Android build 3020
+
+## 🐛 Bug fixes
+* Fixes a few bugs and crashes
+
+
+# 1.22.22 (2025-05-15)
+* iOS build 6795
+* Android build 3016
+
+## 🐛 Bug fixes
+* Adds ability to dismiss "Save meal" dialog.
+* Adds back option to Save Food Combo from checked-in meals.
+* Fixes an incorrect warning about macros on empty meals.
+* [Android] Fixes status and nav bar handling positioning.
+* [Android] Fixes a crash after a fresh install.
+* [Android] Fixes schedule screen calendar header initial rendering.
+
+
 # 1.22.21 (2025-05-08)
 * iOS build 6783
 * Android build 3012
